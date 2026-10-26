@@ -1,546 +1,722 @@
-# Guía de estudio universitario — Microeconomía, semanas 9 y 10
+# GUÍA INTEGRAL DE MICROECONOMÍA — EXAMEN UNIVERSITARIO
+## Semanas 9 y 10 · Oferta de mercado · Elasticidad · Producción · Frontera de posibilidades de producción
 
-> **Método:** bloques de atención de 10–30 minutos · explicación técnica + Feynman · trazado manual · 5 prácticas por tema · claves al final.
->
-> **Base documental verificada:** `Semana 9 Microeconomía.md` y `Semana 10 Microeconomía.md`, aportados con los materiales del curso. **Limitación:** los cuatro PDF adjuntos (incluidas las presentaciones «OFERTA DE MERCADO» y «LICDA ASTRID CAYAX») no estuvieron disponibles para extracción en esta sesión, por lo que su contenido específico no se supone ni se atribuye aquí. Los ejemplos y ciertas precisiones técnicas adicionales están creados expresamente como apoyo didáctico y están señalados como tales.
+> **Objetivo:** dominar definiciones, interpretar situaciones, resolver operaciones **y dibujar gráficas a mano** en sesiones de concentración de **10 a 30 minutos**. Incluye **35 prácticas** (5 por cada uno de 7 bloques temáticos), respuestas, fórmulas, explicación Feynman y gráficos.  
+> **Material base:** *Semana 9 Microeconomía*, *Semana 10 Microeconomía*, *Oferta de mercado* y *Curva de transformación/FPP*, Licda. Astrid Cayax. Los problemas marcados **[PRÁCTICA NUEVA]**, las fórmulas ampliadas y las aclaraciones académicas son material pedagógico adicional, no citas literales de las diapositivas.
 
-## 0. Cómo utilizar esta guía
+---
 
-**Regla de oro:** intenta el ejercicio sin mirar la clave. Después revisa qué concepto falló, no solo el resultado.
+## ÍNDICE
+1. Método de estudio y agenda por sesiones
+2. Tema 1 — Oferta, ley de oferta y determinantes
+3. Tema 2 — Oferta individual, oferta de mercado y función de oferta
+4. Tema 3 — Movimiento sobre la curva y desplazamiento de oferta
+5. Tema 4 — Elasticidad precio de la oferta
+6. Tema 5 — Producción a corto y largo plazo, tecnología y costos
+7. Tema 6 — Frontera de posibilidades de producción (FPP)
+8. Tema 7 — Tiempo y toma de decisiones
+9. Manual universal para hacer gráficas a mano
+10. Glosario y formulario
+11. Simulacro, claves, trampas y lista de control
+12. Referencias internas a materiales
 
-| Atención disponible | Ciclo recomendado | Resultado obligatorio |
+---
+
+# 1. PLAN PARA UNA ATENCIÓN DE 10 A 30 MINUTOS
+
+## Regla de oro: recuperación activa antes que relectura
+
+La secuencia por bloque es **recordar sin mirar → aprender → dibujar/calcular → explicar con tus palabras → comprobar**. No tienes que sostener 2 horas de concentración continua. Divide el temario y detente al terminar un objetivo concreto.
+
+| Si tienes | Estructura | Entregable obligatorio |
 |---|---|---|
-| 10 minutos | 2 min recordar sin notas + 5 min un concepto + 3 min microejercicio | Una definición en tus propias palabras |
-| 20 minutos | 3 min repaso + 8 min concepto + 6 min gráfica/problema + 3 min corregir | Una gráfica o procedimiento reproducible |
-| 30 minutos | 5 min recuperación + 10 min estudiar + 10 min 2 ejercicios + 5 min explicar en voz alta | Dos ejercicios justificados sin ver la clave |
+| **10 minutos** | 2 min recordar + 4 min un concepto + 3 min un ejercicio + 1 min Feynman | Una definición propia y un resultado |
+| **20 minutos** | 3 min repaso + 7 min teoría + 7 min 2 ejercicios/gráfica + 3 min autocorrección | Una gráfica o dos ejercicios correctos |
+| **30 minutos** | 5 min recuperar + 10 min teoría + 10 min tres ejercicios + 5 min revisar errores | Tres aciertos y explicación oral |
 
-**Semáforo del dominio:** 🔴 No puedo explicarlo; 🟡 lo explico con apuntes; 🟢 lo explico y resuelvo sin apuntes. Solo pasa de tema cuando puedas contestar dos preguntas sucesivas sin ayuda. Descansos sugeridos: 3–5 minutos entre bloques y uno más largo cada tres bloques.
+**Pausa sugerida:** 5 minutos entre bloques; después de 2–3 bloques, una pausa más amplia. Si pierdes el hilo a los 12 minutos, termina el microobjetivo y descansa: el plan no exige llegar a 30.
 
-### Plan de 10 sesiones, adaptable
+## Plan de 8 días (ajustable sin fecha de examen)
 
-| Sesión | Foco | Minutos | Evidencia de aprendizaje |
-|---|---|---:|---|
-| 1 | Ley de oferta; individual y mercado | 20 | Tablas y curva a mano |
-| 2 | Determinantes; movimientos frente a desplazamientos | 20 | Tres gráficas etiquetadas |
-| 3 | Elasticidad de oferta: fórmula y categorías | 30 | Dos cálculos y dos clasificaciones |
-| 4 | Práctica mixta de semana 9 | 20 | Ejercicios sin claves |
-| 5 | FPP: escasez, eficiencia, puntos | 20 | FPP dibujada a mano |
-| 6 | Costo de oportunidad y cambios de la FPP | 30 | Tabla y gráfica justificadas |
-| 7 | Costos de producción y clasificación | 20 | Tabla de CF/CV/CT |
-| 8 | Restricción tecnológica y productividad | 20 | Diferenciar insumo y producto |
-| 9 | Proceso de toma de decisiones | 20 | Aplicar los siete pasos a un caso |
-| 10 | Simulacro acumulativo y corrección de errores | 30 | Lista de fortalezas y conceptos pendientes |
+| Día | Bloques de 10–30 min | Objetivo verificable |
+|---|---|---|
+| 1 | Tema 1; definiciones; ejercicios 1–5 | Diferenciar oferta, cantidad ofrecida y sus determinantes |
+| 2 | Tema 2; tablas; sumas; 5 prácticas | Graficar tabla y sumar ofertas individuales |
+| 3 | Tema 3; tres gráficas; 5 prácticas | Explicar movimiento frente a desplazamiento |
+| 4 | Tema 4; fórmulas; 5 prácticas | Calcular e interpretar elasticidades |
+| 5 | Tema 5; costos y producción; 5 prácticas | Distinguir corto/largo plazo y calcular CT |
+| 6 | Tema 6; dibujar las dos FPP originales; 5 prácticas | Clasificar puntos y hallar costo de oportunidad |
+| 7 | Tema 7; árbol decisional; 5 prácticas; glosario | Ejecutar los 7 pasos y argumentar una decisión |
+| 8 | Simulacro + repaso de errores + gráficas de memoria | ≥80% y explicar cada error sin consultar |
 
-**Repaso espaciado:** antes de estudiar contenido nuevo, revisa el anterior al día siguiente, a los 3 días y a los 7 días. Puedes redistribuir las sesiones según tiempo real de concentración.
+**Si el examen es mañana:** cuatro bloques de 20 min: (1) oferta y desplazamientos, (2) elasticidad, (3) FPP y costos, (4) simulacro y glosario. Prioriza cálculos y gráficas.
 
----
+## Cómo estudiar de verdad cada tema
 
-# 1. Oferta individual y oferta de mercado
-
-### Conceptos y definiciones
-
-**Oferta:** cantidades de un bien o servicio que los productores están dispuestos y pueden poner a la venta, a distintos precios, en un mercado y período determinados, manteniendo los demás factores constantes (*ceteris paribus*). Es el enfoque usado por la semana 9.
-
-> **Feynman 👦**: imagina que tienes limonadas. Si pagan más por vaso, quizá quieras preparar más. La oferta cuenta cuántos vasos pondrías a la venta a cada precio.
-
-**Ley de la oferta:** *ceteris paribus*, la cantidad ofrecida suele variar en el mismo sentido que el precio.
-
-> **Feynman 👦**: si te pagan mejor por algo, normalmente te animas a vender más; si te pagan menos, menos.
-
-**Oferta individual:** cantidades ofrecidas por un productor. **Oferta de mercado:** suma **horizontal** de las cantidades que todos los productores ofrecen a **un mismo precio**.
-
-> **Feynman 👦**: para saber cuántas limonadas hay en el barrio, suma las de todos los puestos, pero compara siempre el mismo precio.
-
-**⚠️ Diferencia difícil — oferta frente a cantidad ofrecida:** *cantidad ofrecida* = un punto de la curva a un precio; *oferta* = relación completa precio–cantidad, representada por toda la curva.
-
-> **Feynman 👦**: elegir una porción de pizza no es lo mismo que cambiar la pizza entera.
-
-**Ejemplo guiado de apoyo:**
-
-| Precio P (Q) | Productor A | Productor B | Mercado A+B |
-|---:|---:|---:|---:|
-| 5 | 2 | 1 | 3 |
-| 10 | 4 | 3 | 7 |
-| 15 | 6 | 5 | 11 |
-| 20 | 8 | 7 | 15 |
-
-### Cómo hacer la gráfica a mano
-
-1. Traza dos ejes perpendiculares; **X = cantidad Q**, **Y = precio P**.
-2. Elige escala regular: X de 0 a 16 (pasos de 2), Y de 0 a 20 (pasos de 5).
-3. Ubica (Q,P): (3,5), (7,10), (11,15), (15,20).
-4. Une los puntos y escribe **S** sobre la línea ascendente.
-5. Nunca pongas el precio en X si el curso usa la representación económica convencional.
-
-```text
-Precio P
- 20 |                         ●
- 15 |                  ●    / S
- 10 |           ●     /
-  5 |    ●     /
-  0 +-------------------------------- Cantidad Q
-      0   3      7      11     15
-```
-
-**Posibles preguntas de examen:** definición de oferta; ley; diferencia individual/mercado; suma horizontal; ejes correctos; significado de *ceteris paribus*.
-
-### Práctica: 5 ejemplos (sin mirar la clave)
-
-1. A ofrece 3, B 5 y C 2 unidades cuando P=Q8. ¿Cuál es la cantidad de mercado?
-2. En P=Q4, A ofrece 2 y B 1; en P=Q8, A ofrece 4 y B 3. Construye la tabla de mercado y grafícala.
-3. Cuando un precio sube de Q10 a Q15 y Q ofrecida de 9 a 14, ¿qué ley ilustra?
-4. Un mercado ofrece 20 unidades a P=Q6. ¿«20» es la oferta completa o una cantidad ofrecida?
-5. Tres empresas ofrecen 6, 0 y 9 unidades a P=Q12. ¿Se incluye la empresa que ofrece cero en la suma? Calcula Q de mercado.
+- **Primera vuelta — Reconocer:** lee las definiciones y la sección Feynman; subraya la diferencia con conceptos parecidos.
+- **Segunda vuelta — Producir:** oculta la clave; escribe 3 conceptos, resuelve 2 ejercicios y dibuja la gráfica correspondiente.
+- **Tercera vuelta — Transferir:** cambia números/productos, explica la intuición, identifica el error que cometería otra persona.
+- **Prueba de dominio:** aciertas 4 de 5 prácticas **sin ver las respuestas** y puedes defender verbalmente la respuesta en un minuto.
 
 ---
 
-# 2. Determinantes de la oferta: desplazamiento o movimiento
+# 2. TEMA 1 — OFERTA, LEY DE OFERTA Y DETERMINANTES
 
-### Conceptos
+**Base:** *Oferta de mercado*, págs. 2–6 y 10–12; *Semana 9*, págs. 1–2.
 
-**Movimiento sobre la curva:** cambio en la **cantidad ofrecida** causado por un cambio del **precio propio**, con los demás factores constantes.
+### Concepto: oferta
+**Definición técnica (material):** cantidad de bienes o servicios que las empresas ponen a disposición de los consumidores a determinados precios, en un mercado y período determinados.  
+**🧒 Feynman:** imagina una panadería: no importa cuántos panes quisiera comprar la gente, sino **cuántos panes estaría dispuesta a vender** la panadería a cada precio.
 
-> **Feynman 👦**: sigues caminando por el mismo tobogán: solo cambió el precio.
+### Concepto: cantidad ofrecida
+**Definición técnica:** número específico de unidades que un productor está dispuesto a vender **a un precio particular**, bajo las demás condiciones constantes.  
+**🧒 Feynman:** *oferta* es el menú completo de opciones; *cantidad ofrecida* es una sola casilla de ese menú.
 
-**Desplazamiento de la curva:** cambio de **la oferta** debido a otra variable (insumos, tecnología, expectativas, cantidad de empresas, clima, transporte, política, disponibilidad, etc.).
+### Concepto: ley fundamental oferta-precio
+**Definición técnica (material):** la cantidad ofrecida tiende a variar en sentido directo con el precio, **ceteris paribus**.  
+**🧒 Feynman:** si vender un pastel deja más dinero, la pastelería normalmente querrá ofrecer más pasteles.
 
-> **Feynman 👦**: ahora movieron todo el tobogán. Al mismo precio, las tiendas venden una cantidad diferente.
+### ⚠️ CONCEPTO DIFÍCIL: *ceteris paribus*
+**Definición técnica (ampliación):** supuesto que mantiene constantes otros factores distintos de la variable estudiada. La ley de oferta aísla el efecto del **precio del propio bien**.  
+**🧒 Feynman:** para saber qué hace subir un globo, cambia solo una cosa a la vez; de lo contrario no sabes cuál fue la causa.
 
-La semana 9 distingue determinantes **objetivas** (precio, costos de factores, demanda/mercado, disponibilidad, competencia, perecibilidad, inventarios, sustitutos, liquidez), **subjetivas** (expectativas, aspiraciones, voluntad de vender) y circunstancias adicionales (ubicación, transporte, ambiente, tecnología y política). Esta clasificación se conserva como organización del curso, aunque en un análisis gráfico estándar separamos precio propio del resto.
+### Determinantes del material
+| Objetivos | Subjetivos | Circunstancias adicionales |
+|---|---|---|
+| Precio, costos de factores, tamaño de mercado, disponibilidad de factores, competidores, perecibilidad, inventarios, sustitutos y necesidad de liquidez | Expectativa de precio futuro, aspiración de crecimiento social, amor propio y voluntad de vender | Ubicación, transporte, ambiente, tecnología y condiciones sociopolíticas |
 
-**⚠️ Difícil — direcciones:** aumento de oferta → curva a la **derecha**; disminución → **izquierda**. Una mejora tecnológica suele mover la oferta a la derecha; un aumento de costos suele moverla a la izquierda, si lo demás permanece igual.
+**Clave de interpretación:** para un gráfico de oferta, distingue el **precio propio** (movimiento a lo largo) de los **otros determinantes** (potencial desplazamiento). Una subida en los costos normalmente desplaza la oferta a la izquierda; una mejora tecnológica normalmente a la derecha. Las expectativas y otros factores pueden requerir explicar el contexto.
 
-> **Feynman 👦**: con una máquina que produce más rápido puedes vender más sin subir el precio.
+### Prácticas del tema 1 — [PRÁCTICA NUEVA]
+1. Una tienda vende 40 cuadernos a Q5 y 75 a Q8, manteniendo iguales las demás condiciones. ¿Qué ley ilustra? ¿Cuánto cambió la cantidad?
+2. Un temporal destruye cosechas de tomate. ¿Es cambio de precio propio o determinante distinto? ¿Qué dirección esperas para la oferta?
+3. Señala **dos determinantes subjetivos** y **tres objetivos** según las lecturas.
+4. Un vendedor guarda maíz porque piensa que mañana pagarán más. ¿Cuál determinante explica su comportamiento? ¿Qué ocurre normalmente con oferta presente?
+5. Una empresa baja el precio de Q10 a Q7 y reduce su cantidad ofrecida de 140 a 100. ¿Cuál es la variación porcentual de cantidad usando base inicial?
 
-### Guía para graficar a mano
+<details><summary><strong>Clave razonada — Tema 1</strong></summary>
 
-1. Ejes Q horizontal y P vertical.
-2. Dibuja una curva S₀ ascendente.
-3. Si cambió el precio propio: marca dos puntos distintos **en S₀**; añade flecha entre ellos.
-4. Si cambió otra condición: copia una curva S₁ **paralela aproximadamente a la derecha** si aumenta, o **a la izquierda** si disminuye; señala precio P₀ constante y las dos cantidades.
-5. Debajo de la gráfica, escribe **causa** y **efecto** en palabras.
+1. Ley de oferta; ΔQ = 75 − 40 = **35 unidades**; ambos cambios son positivos.
+2. **Condiciones medioambientales**; normalmente **disminución de oferta** (desplazamiento a izquierda) a cada precio, no necesariamente movimiento sobre la misma curva.
+3. Subjetivos: expectativas y voluntad de vender (también aspiración social o amor propio). Objetivos: precio, costos y número de competidores (entre los listados).
+4. Expectativa de precios futuros; puede **reducir la oferta actual** por retención de inventario.
+5. (100 − 140) / 140 × 100 = **−28.57%**. La cantidad ofrecida se contrajo.
 
-```text
-MOVIMIENTO (misma S)                 DESPLAZAMIENTO (S0 -> S1)
-P                                     P
-|        ● B                         |     S0       S1
-|      /                             |    /       /
-|   ● A                              |   /       /
-|  / S                               |  /       /
-+--------------- Q                   +---------------- Q
-```
-
-**Trampa habitual:** «sube la demanda» no equivale automáticamente a «se desplaza la curva de oferta». Puede cambiar el precio de equilibrio y producir un movimiento **a lo largo** de la oferta; depende del modelo y de qué cambió realmente.
-
-### Práctica: 5 ejemplos
-
-1. Subió el precio propio y el productor entrega más. ¿Movimiento o desplazamiento?
-2. Una tecnología reduce costos y aumenta lo ofrecido a todo precio. Clasifica y dibuja.
-3. Un huracán destruye cosechas. Clasifica el cambio y dibuja.
-4. Los productores esperan un precio mayor mañana y retienen inventarios hoy. ¿En qué dirección puede cambiar la oferta actual?
-5. El combustible encarece el transporte de tomates. Explica el efecto esperado sobre la curva de oferta, suponiendo los demás factores constantes.
+</details>
 
 ---
 
-# 3. Elasticidad-precio de la oferta
+# 3. TEMA 2 — OFERTA INDIVIDUAL, DE MERCADO Y FUNCIÓN DE OFERTA
 
-### Conceptos y fórmula
+**Base:** *Oferta de mercado*, págs. 7–13; *Semana 9*, pág. 3.
 
-**Elasticidad-precio de la oferta (Eₛ):** porcentaje en que cambia la cantidad ofrecida ante un cambio porcentual del precio, manteniendo los demás factores constantes.
+### Oferta individual
+**Definición técnica (material):** cantidades que un productor estaría dispuesto a ofrecer a cada nivel de precio, considerando rentabilidad y costos.  
+**🧒 Feynman:** cuántos jugos vendería **una** tienda si cuestan Q4, Q5 o Q6.
 
-> **Feynman 👦**: mide qué tanto reacciona un vendedor cuando cambia el precio. Algunos reaccionan poquito; otros muchísimo.
+### Oferta de mercado
+**Definición técnica (material):** suma de las cantidades ofrecidas por los diferentes productores a **cada mismo nivel de precio**.  
+**🧒 Feynman:** reúne todas las tiendas y suma sus jugos cuando todos ven el precio Q5; después repite para Q6.
 
-**⚠️ Difícil — fórmula de punto medio (arco):** la semana 9 presenta una expresión de variaciones entre cantidad y precio. Su versión legible y simétrica es:
+### ⚠️ CONCEPTO DIFÍCIL: suma horizontal
+**Definición técnica (ampliación):** para cada precio P, la cantidad total es `Q_mercado(P) = Σ Q_i(P)`. **No sumes precios**.  
+**🧒 Feynman:** si Ana ofrece 7 panes a Q2 y Luis ofrece 9 panes a Q2, en ese mismo precio hay **16 panes**.
+
+### Tabla real de las diapositivas
+
+| Precio, Q | Cantidad ofrecida |
+|---:|---:|
+| 5.00 | 400 |
+| 5.50 | 600 |
+| 6.00 | 800 |
+| 6.50 | 1,200 |
+| 7.00 | 2,000 |
+| 7.50 | 3,000 |
+| 8.00 | 5,000 |
+
+![Curva de oferta construida con la tabla del material](imagenes_micro/oferta_tabla.png)
+
+**Importante para examen:** el gráfico de la diapositiva 11 representa precio horizontal y cantidad vertical, mientras que **la convención habitual en microeconomía es cantidad horizontal (X) y precio vertical (Y)**. Dibuja según la indicación docente; esta guía emplea la convención estándar.
+
+### Función de oferta
+**Definición técnica:** relación matemática que asigna a cada precio una cantidad ofrecida cuando el resto de factores se mantiene fijo.  
+**🧒 Feynman:** es una máquina: introduces el precio y te dice cuántas unidades quiere vender una empresa.
+
+**Ejemplo literal del material:** `Qx = 45 + 1.5P` con P = Q3, Q4.50 y Q7.
+
+| Precio P | Sustitución | Cantidad ofrecida Qx |
+|---:|---|---:|
+| 3.00 | 45 + 1.5(3) | **49.5** |
+| 4.50 | 45 + 1.5(4.5) | **51.75** |
+| 7.00 | 45 + 1.5(7) | **55.5** |
+
+**Advertencia:** puede aparecer cantidad fraccionaria en una función teórica; si el ejercicio habla de artículos indivisibles, explica el redondeo solo si el enunciado lo pide.
+
+### Dibujar a mano una curva de oferta en 7 pasos
+1. Lee la tabla y detecta **qué columna es P y cuál Q**.
+2. Dibuja un ángulo recto con regla; **X = cantidad, Y = precio**.
+3. Escoge escalas proporcionales que contengan el máximo: por ejemplo X de 0 a 5,000 en intervalos de 1,000; Y de Q5 a Q8 en tramos Q0.50.
+4. Sitúa puntos como `(400,5)`, `(600,5.5)` y `(5000,8)`; recuerda **(cantidad, precio)**.
+5. Marca pequeños puntos, comprueba que corresponden a la tabla.
+6. Une siguiendo la tendencia real de los datos, sin inventar que es recta si no lo es.
+7. Titula **S** y anota unidades. Debe ser una curva creciente.
+
+### Prácticas del tema 2 — [PRÁCTICA NUEVA salvo 1]
+1. **[DEL MATERIAL]** Resuelve `Qx=45+1.5P` para P=3, 4.5 y 7; grafica los tres puntos.
+2. A Q6, el productor A ofrece 20 y B 35; a Q8, A ofrece 30 y B 50. Completa la tabla de oferta del mercado y grafica.
+3. Si `Qs=12+4P`, calcula Q para P=5 y despeja P cuando Q=52.
+4. A P=Q10 tres productores ofrecen 40, 15 y 25; a P=Q12 ofrecen 50, 20 y 35. ¿Qué cantidades ofrece el mercado?
+5. La tabla P/Q es (2/10), (3/20), (4/30). ¿Qué relación lineal `Q=a+bP` describe estos puntos?
+
+<details><summary><strong>Clave razonada — Tema 2</strong></summary>
+
+1. **49.5, 51.75, 55.5**; puntos gráficos (49.5,3), (51.75,4.5), (55.5,7).
+2. P=6: 20+35=**55**; P=8: 30+50=**80**. Puntos (55,6) y (80,8).
+3. Q=12+4(5)=**32**; 52=12+4P → 40=4P → **P=10**.
+4. P=10: **80**; P=12: **105**. Siempre suma cantidades de productores al precio compartido.
+5. ΔQ/ΔP=(20−10)/(3−2)=10; a=10−10(2)=−10 → **Q=−10+10P** para los puntos indicados.
+
+</details>
+
+---
+
+# 4. TEMA 3 — VARIACIONES EN CANTIDAD OFRECIDA Y EN OFERTA
+
+**Base:** *Oferta de mercado*, pág. 14; *Semana 9*, págs. 3–4.
+
+### Expansión o contracción de cantidad ofrecida
+**Definición técnica (material):** cambio en la cantidad que se ofrece ante una variación del precio del propio bien, manteniéndose los demás factores; se representa con **movimiento sobre la curva existente**.  
+**🧒 Feynman:** caminas hacia arriba o abajo **por el mismo tobogán**; no construyes otro tobogán.
+
+### Aumento o disminución de la oferta
+**Definición técnica (material):** variación de toda la relación precio-cantidad producida por factores diferentes al precio propio, como costos, tecnología, disponibilidad de insumos o competidores.  
+**🧒 Feynman:** ahora **mueves el tobogán entero** hacia la derecha o izquierda: para el mismo precio se venderá más o menos.
+
+### ⚠️ EL ERROR MÁS EXAMINABLE
+- **Precio propio ↑, otros constantes:** movimiento **arriba y a la derecha** sobre S, expansión de la **cantidad ofrecida**.
+- **Precio propio ↓, otros constantes:** movimiento **abajo y a la izquierda** sobre S, contracción de la **cantidad ofrecida**.
+- **Mejora tecnológica:** típicamente S → derecha: **aumenta la oferta**.
+- **Suben costos de materias primas:** típicamente S → izquierda: **disminuye la oferta**.
+
+![Comparación visual de movimiento y desplazamientos](imagenes_micro/movimientos_oferta.png)
+
+### Cómo dibujar ambas situaciones a mano
+**A. Solo cambia el precio:** traza **una única curva S**; dibuja A=(Q1,P1) y B=(Q2,P2) sobre ella; agrega flecha A→B. No dibujes una segunda curva.  
+**B. Cambia otro factor:** traza S0; a la **derecha** dibuja S1 si aumenta la oferta; a la **izquierda** dibuja S2 si disminuye; añade una línea horizontal de **precio constante** para mostrar mayor/menor cantidad a igual P.
+
+### Prácticas del tema 3 — [PRÁCTICA NUEVA]
+1. El precio de un café sube de Q12 a Q15 y las cafeterías ofrecen más cafés. ¿Movimiento o desplazamiento? Dibuja.
+2. Baja el precio del fertilizante y, a igual precio de tomate, los agricultores ofrecen más. ¿Qué sucede? Dibuja.
+3. Una huelga bloquea transporte de mercadería. ¿Qué curva cambia y cómo? Dibuja.
+4. En el mismo gráfico, distingue el resultado de (i) aumenta precio de pan y (ii) aparece un horno más eficiente.
+5. ¿Por qué es incorrecto decir «sube el precio, por lo tanto aumenta la oferta» cuando se mantiene todo lo demás igual?
+
+<details><summary><strong>Clave razonada — Tema 3</strong></summary>
+
+1. Movimiento **sobre S**, arriba/derecha; aumenta **cantidad ofrecida**.
+2. **Desplazamiento de S a la derecha**, por menor costo de producción.
+3. Normalmente **disminuye oferta**, S a la izquierda, por mayor dificultad/costo de distribución.
+4. (i) desplazamiento **de punto** sobre S; (ii) desplazamiento **de curva** a la derecha.
+5. La frase confunde el cambio de **cantidad ofrecida** con el cambio de **oferta**; el precio propio no desplaza S bajo ceteris paribus.
+
+</details>
+
+---
+
+# 5. TEMA 4 — ELASTICIDAD PRECIO DE LA OFERTA
+
+**Base:** *Oferta de mercado*, págs. 15–17; *Semana 9*, págs. 4–5.
+
+### Elasticidad de oferta-precio
+**Definición técnica:** medida de la respuesta porcentual de la cantidad ofrecida ante una variación porcentual del precio propio.  
+**🧒 Feynman:** no basta saber que el panadero vende más si sube el precio: queremos saber **qué tan fuerte** reacciona.
+
+### ⚠️ CÁLCULO: DOS FORMAS QUE PUEDEN PRODUCIR RESPUESTAS DIFERENTES
+
+**Método con base inicial (ampliación didáctica):**
 
 \[
-E_s=\frac{\frac{Q_2-Q_1}{(Q_1+Q_2)/2}}{\frac{P_2-P_1}{(P_1+P_2)/2}}
-=\frac{Q_2-Q_1}{Q_1+Q_2}\cdot\frac{P_1+P_2}{P_2-P_1}
+E_s=\frac{(Q_2-Q_1)/Q_1}{(P_2-P_1)/P_1}=\frac{Q_2-Q_1}{P_2-P_1}\frac{P_1}{Q_1}
 \]
 
-Se usa el **valor absoluto** para clasificar la magnitud cuando se trabaja con valores de variación de sentido normal; verifica que Q y P correspondan al mismo intervalo. Si no cambia el precio (denominador cero), esta fórmula no da una elasticidad finita y no debe dividirse entre cero.
-
-> **Feynman 👦**: comparamos cuánto cambió la cantidad *en porcentaje* contra cuánto cambió el precio *en porcentaje*. Si lo primero cambia más, es elástica.
-
-| Categoría | Valor | Interpretación |
-|---|---:|---|
-| Perfectamente inelástica | Eₛ = 0 | Q no cambia cuando cambia P |
-| Inelástica | 0 < Eₛ < 1 | Q cambia proporcionalmente menos que P |
-| Unitaria | Eₛ = 1 | Q y P cambian igual porcentualmente |
-| Elástica | Eₛ > 1, finita | Q cambia proporcionalmente más que P |
-| Perfectamente elástica | Eₛ → ∞ | Precio constante para diferentes Q en el caso ideal |
-
-**Matiz importante:** *perfectamente elástica* describe, bajo el modelo ideal, una **curva horizontal**, no cualquier cambio enorme en producción. *Perfectamente inelástica* es **vertical**. La elasticidad de arco depende del segmento comparado; una pendiente inclinada no permite clasificar sin datos adicionales.
-
-### Cálculo modelo (creado para esta guía)
-
-De P₁=10, Q₁=20 a P₂=12, Q₂=30:
-
-- Cambio proporcional Q = (30−20)/25 = 0.40.
-- Cambio proporcional P = (12−10)/11 ≈ 0.1818.
-- Eₛ ≈ 2.20 → **elástica**.
-
-### Gráficas manuales por categoría
-
-1. Conserva X=Q, Y=P en todas las gráficas.
-2. Dibuja una línea vertical para Eₛ=0 y horizontal para Eₛ→∞.
-3. Para los otros grados usa datos numéricos y calcula Eₛ en un tramo: la forma visual por sí sola no siempre basta.
-
-```text
-E=0              E→∞
-P |  S           P |-------- S
-  |  |             |
-  |  |             |
-  +------ Q        +--------- Q
-```
-
-### Práctica: 5 ejemplos
-
-Para los ejercicios 1–3 y 5 usa **punto medio** y clasifica.
-
-1. P: 10→12; Q: 20→30.
-2. P: 10→20; Q: 50→55.
-3. P: 8→12; Q: 40→60.
-4. El precio sube, pero se ofrecen exactamente 30 unidades antes y después. ¿Valor y curva?
-5. P: 5→15; Q: 10→20.
-
----
-
-# 4. Frontera de Posibilidades de Producción (FPP)
-
-### Conceptos y supuestos
-
-**FPP o curva de transformación:** conjunto de combinaciones **máximas factibles** de dos bienes que pueden producirse con recursos, tecnología y tiempo dados. Es el tema central de la semana 10.
-
-> **Feynman 👦**: tienes harina para hacer pan y pasteles. Si usas más harina en pasteles, puede quedar menos para pan. La curva muestra las mejores combinaciones posibles.
-
-**⚠️ Precisión importante sobre el texto de semana 10:** aparece la expresión «factores y tecnología ilimitados», pero los supuestos listados después dicen que **los factores están dados y la tecnología está dada**. Para que exista escasez y una frontera finita, el planteamiento económico coherente supone **recursos limitados y tecnología dada**, no ilimitados. Conviene conocer esta discrepancia y confirmarla con tu docente.
-
-**Punto sobre la FPP:** eficiencia productiva (dado el modelo). **Punto interior:** producción factible pero ineficiente. **Punto exterior:** inalcanzable con la dotación y tecnología actuales.
-
-> **Feynman 👦**: sobre la línea estás aprovechando lo que tienes; dentro te sobra capacidad; fuera querrías cocinar más de lo que tus ingredientes permiten.
-
-**Costo de oportunidad:** cantidad del otro bien a la que se renuncia cuando se decide producir una unidad adicional del primero.
-
-> **Feynman 👦**: el precio de hacer un pastel más puede ser dejar de hornear dos panes.
-
-**⚠️ Difícil — costo de oportunidad creciente:** si los recursos no sirven igual para producir ambos bienes, obtener unidades adicionales de X exige sacrificar progresivamente más Y; la FPP suele ser **cóncava hacia el origen** (arqueada hacia afuera).
-
-### Tabla y guía de dibujo
-
-| Alternativa | Bien X | Bien Y |
-|---|---:|---:|
-| A | 0 | 20 |
-| B | 2 | 19 |
-| C | 4 | 16 |
-| D | 6 | 11 |
-| E | 8 | 0 |
-
-1. Eje X = unidades del bien X; eje Y = unidades del bien Y.
-2. Escala X: 0 a 8 cada 2. Escala Y: 0 a 20 cada 5.
-3. Coloca A(0,20), B(2,19), C(4,16), D(6,11), E(8,0).
-4. Únelos suavemente: verifica que al aumentar X disminuya Y.
-5. Marca I(2,8) **adentro** y U(6,19) **afuera**; argumenta cuál es factible.
-
-```text
-Bien Y
-20 |●A  ●B
-15 |        ●C
-10 |            ●D
- 5 |      I
- 0 +----------------●E------ Bien X
-    0    2   4   6   8
-```
-
-**Cambio tecnológico:** si mejora la capacidad productiva de ambos bienes, la FPP suele desplazarse hacia afuera; si mejora solo X, puede girar hacia afuera del lado del eje X. **No confundas** un movimiento entre puntos de una FPP con un desplazamiento de toda la FPP.
-
-### Práctica: 5 ejemplos
-
-1. Con la tabla A–E, ¿cuánto Y se sacrifica al pasar B→C?
-2. Con la misma tabla, ¿cuánto Y se sacrifica por unidad de X al pasar C→D?
-3. Clasifica A(0,20), I(2,8), U(6,19) como eficiente, interior o inalcanzable.
-4. Una nueva máquina mejora solamente la producción máxima de X. Dibuja cómo cambia la frontera y explica el giro.
-5. Una sociedad sufre la destrucción de parte de sus fábricas. ¿Qué ocurriría, en general, con la FPP? Traza antes y después.
-
----
-
-# 5. Producción, costos y rentabilidad
-
-### Conceptos
-
-**Costo de producción:** recursos monetarios necesarios para producir bienes o servicios; la semana 10 también los denomina costos de operación.
-
-> **Feynman 👦**: todo lo que gastas para preparar las galletas antes de venderlas.
-
-**Costo de venta:** término que puede referirse, según contexto contable, al costo de bienes vendidos o a gastos de comercialización. **Nota:** el documento del curso lo emplea genéricamente como «costo de vender»; conserva esa definición para preguntas textuales, pero distingue términos cuando hagas cálculos.
-
-> **Feynman 👦**: producir la galleta y llevarla hasta quien la compra pueden generar gastos distintos.
-
-**Costos directos:** atribuibles de manera relativamente clara a un producto, como materia prima o mano de obra directa. **Costos indirectos:** compartidos entre productos o actividades y necesitan un criterio de reparto, como parte del alquiler o seguros.
-
-> **Feynman 👦**: la harina de tus galletas sabes cuánto costó para ellas; la luz de toda la cocina es más difícil repartirla.
-
-**⚠️ Difícil — directo ≠ variable; indirecto ≠ fijo.** El material relaciona estos pares de forma simplificada; técnicamente son **clasificaciones diferentes**: «directo/indirecto» = posibilidad de atribuir al producto; «fijo/variable» = comportamiento ante el volumen de producción en un horizonte dado.
-
-> **Feynman 👦**: una etiqueta dice *a quién pertenece el gasto*; la otra dice *si cambia cuando produces más*.
-
-**Costo fijo (CF):** no cambia con la cantidad producida dentro del rango y plazo analizados. **Costo variable (CV):** cambia con Q. **Costo total (CT):** suma ambos. **Ingreso total (IT):** precio de venta por cantidad si el precio es uniforme. **Beneficio contable simplificado:** IT−CT.
-
-### Fórmulas de apoyo didáctico (no desarrolladas explícitamente en las notas)
+**Método del punto medio / elasticidad arco (ampliación didáctica):**
 
 \[
-CT=CF+CV,\quad CMe=\frac{CT}{Q},\quad CFMe=\frac{CF}{Q},\quad CVMe=\frac{CV}{Q}
-\]
-\[
-CMg=\frac{\Delta CT}{\Delta Q},\quad IT=P\cdot Q,\quad \pi=IT-CT
+E_{s,arco}=\frac{(Q_2-Q_1)/[(Q_1+Q_2)/2]}{(P_2-P_1)/[(P_1+P_2)/2]}
 \]
 
-En Q=0, **no se calcula costo medio** dividiendo entre cero.
+**Precaución:** la diapositiva presenta las variables Qx1/Qx2/Px1/Px2 y categorías, pero la **expresión de la ecuación no aparece legible en el texto extraído**. En el examen usa **la fórmula indicada por tu catedrática** si difiere de la elegida en estas prácticas. En los 5 ejercicios siguientes usaremos **base inicial**, excepto cuando se solicite expresamente arco.
 
-### Cómo dibujar curvas de costos a mano
+### Clasificación del material
 
-1. Q (horizontal) y costo en quetzales (vertical).
-2. Dibuja CF como línea horizontal.
-3. Traza CV empezando en el origen para un caso simplificado de CV(0)=0.
-4. Traza CT empezando a la altura de CF y sumando verticalmente CV a cada Q.
-5. **No impongas una curva en U** de costo marginal sin datos que la justifiquen.
+| Elasticidad | Condición | Interpretación de respuesta porcentual | Gráfica límite |
+|---|---|---|---|
+| Perfectamente inelástica | `Es = 0` | La Q no cambia aunque cambie P | Vertical |
+| Inelástica | `0 < Es < 1` | %ΔQ menor que %ΔP | Creciente; sensibilidad baja |
+| Unitaria | `Es = 1` | %ΔQ igual a %ΔP | No necesariamente recta 45° |
+| Elástica | `Es > 1` | %ΔQ mayor que %ΔP | Creciente; sensibilidad alta |
+| Perfectamente elástica | `Es → ∞` | Oferta horizontal al precio dado | Horizontal |
 
-```text
-Costo (Q)
-  |                 / CT
-  |            ____/
-  |      _____/       / CV
-CF|------------------/
-  |                /
-  +---------------------------- Cantidad
-```
+**Trampa:** la inclinación geométrica de una curva no equivale automáticamente a su elasticidad: **la escala y el punto específico importan**. Una recta creciente puede tener elasticidad diferente a lo largo de ella.
 
-### Práctica: 5 ejemplos
+![Extremos de elasticidad en ejes P-Q](imagenes_micro/elasticidad_extremos.png)
 
-1. CF=Q100 y CV=Q250. Calcula CT.
-2. CF=Q120, CV=Q180, Q=10. Halla CT y CMe.
-3. Q=10 tiene CT=Q300 y Q=15 tiene CT=Q400. Halla CMg en ese tramo.
-4. Se venden 40 unidades a Q20 cada una, CT=Q650. Halla IT y beneficio simplificado.
-5. Clasifica para una panadería: harina usada en panes, alquiler mensual y electricidad total de tienda, en **directo/indirecto** y **fijo/variable**; explica cualquier dependencia del contexto.
+### Resolver elasticidad paso a paso a mano
+1. Copia los cuatro datos, con subíndices iniciales `P1,Q1` y finales `P2,Q2`.
+2. Calcula `ΔQ = Q2 − Q1` y `ΔP = P2 − P1`.
+3. Calcula `%ΔQ = ΔQ/Q1 × 100` y `%ΔP = ΔP/P1 × 100`.
+4. Divide `%ΔQ / %ΔP`; **no dividas ΔQ/ΔP sin normalizar**.
+5. Clasifica Es y escribe una frase: «Si P cambió x%, Q cambió y%; por tanto…».
+6. Si P no varía (`ΔP=0`), evita división por cero; examina si la situación corresponde a una oferta perfectamente elástica bajo el modelo ideal.
+
+### Ejemplo detallado
+P1=Q4, P2=Q5, Q1=100, Q2=125.  
+`ΔP=1`; `%ΔP=1/4×100=25%`.  
+`ΔQ=25`; `%ΔQ=25/100×100=25%`.  
+**Es=25%/25%=1 (unitaria)**.
+
+### Prácticas del tema 4 — tomadas de la tabla de cinco ejercicios de la diapositiva 17
+
+| Práctica | P1 | P2 | Q1 | Q2 | Qué se pide |
+|---|---:|---:|---:|---:|---|
+| 1 | 5 | 4 | 100 | 100 | Es y clase |
+| 2 | 4 | 5 | 100 | 110 | Es y clase |
+| 3 | 4 | 5 | 100 | 125 | Es y clase |
+| 4 | 4 | 5 | 100 | 200 | Es y clase |
+| 5 | 5 | 5 | 20 | 25 | Interpretar el caso límite |
+
+**Nota:** cambiaremos de forma explícita el orden P/Q de las columnas originales para presentar todos los casos uniformemente. **Usa base inicial**, no punto medio, para comparar la clave.
+
+<details><summary><strong>Clave completa — Tema 4</strong></summary>
+
+1. `%ΔP=(4−5)/5=−20%`, `%ΔQ=0%`; **Es=0**, perfectamente inelástica (aunque P baje, Q es constante).
+2. `%ΔP=(5−4)/4=25%`, `%ΔQ=(110−100)/100=10%`; **Es=0.10/0.25=0.40**, inelástica.
+3. `%ΔP=25%`, `%ΔQ=25%`; **Es=1.00**, unitaria.
+4. `%ΔP=25%`, `%ΔQ=100%`; **Es=4.00**, elástica.
+5. `%ΔP=0%`, `%ΔQ=25%`; **no puede calcularse un cociente numérico finito**, porque se divide entre cero. Es la representación de un **caso perfectamente elástico (infinito)** si ambas observaciones pertenecen a la misma curva de oferta horizontal idealizada; sin ese supuesto, dos observaciones aisladas no bastan para concluirlo.
+
+**Comprobación extra con arco:** la práctica 2 da `[(10/105)/(1/4.5)]≈0.4286`, diferente de `0.40`; por eso es importante aclarar el método.
+
+</details>
 
 ---
 
-# 6. Restricción tecnológica y decisiones empresariales
+# 6. TEMA 5 — PRODUCCIÓN, LARGO PLAZO, TECNOLOGÍA Y COSTOS
 
-### Conceptos
+**Base:** *Semana 9*, págs. 1–3; *Semana 10*, págs. 2–3; diapositivas de FPP, págs. 3 y 5.
 
-**Restricción tecnológica:** combinaciones de insumos y producto permitidas por la tecnología y los recursos disponibles. El curso presenta la pregunta central: ¿qué nivel de producción y combinación de insumos permitiría maximizar ganancias?
+### Producción en corto plazo
+**Definición técnica (ampliación del texto):** horizonte en que al menos un factor productivo permanece fijo; para expandir producción se usan intensivamente factores disponibles y factores variables.  
+**🧒 Feynman:** con **el mismo horno**, una panadería puede comprar más harina y contratar turnos extra, pero todavía no ha construido otro horno.
 
-> **Feynman 👦**: aunque quieras preparar mil panes, tu horno, tiempo y harina ponen límites.
+### Producción en largo plazo
+**Definición técnica:** horizonte suficiente para ajustar todos los insumos, capacidades e instalaciones. El texto de Semana 9 señala la posibilidad de producir más a menor costo mediante ajustes productivos.  
+**🧒 Feynman:** ahora la panadería puede **construir otro horno y agrandar el local**. *Largo plazo* no significa exactamente «más de un año», sino tiempo para cambiar todo lo necesario.
 
-**Cambio tecnológico:** mejora en métodos o procesos que puede reducir desperdicios, elevar productividad o permitir nuevos productos.
+### Restricción tecnológica
+**Definición técnica (Semana 10):** límites sobre combinaciones de insumos y productos derivados de las tecnologías y procesos disponibles.  
+**🧒 Feynman:** una máquina solo puede hacer tantas tortillas por hora; querer más no basta si no cambias la máquina o la forma de usarla.
 
-> **Feynman 👦**: un horno más rápido te ayuda a hacer más pan con el mismo tiempo.
+### ⚠️ Costos de producción, costos de venta, directos e indirectos
+**Definición técnica (material):** costos de producción son desembolsos para fabricar el bien o prestar el servicio; costos de venta son los vinculados a comercializarlo. El texto clasifica **directos** (materia prima, mano de obra, supervisión, mantenimiento, servicios, envases) e **indirectos** (depreciación, impuestos, seguros, I+D y distribución).  
+**🧒 Feynman:** para hacer galletas pagas harina, energía y cocinero; para venderlas quizá pagas publicidad y entrega. No es lo mismo **fabricarlas** que **ponerlas en manos del comprador**.
 
-**Función de producción (ampliación didáctica):** relación entre factores productivos y cantidad de producto, por ejemplo Q=f(L,K), con L trabajo y K capital.
+**Aclaración académica importante:** el material aproxima «directo = proporcional a producción» e «indirecto = fijo». **No son equivalentes exactos**: *directo/indirecto* describe si el costo puede asociarse al producto; *fijo/variable* describe cómo cambia con el volumen. Una mano de obra directa podría tener pagos fijos; electricidad indirecta podría variar con producción.
 
-> **Feynman 👦**: es una receta matemática: cuántos trabajadores y máquinas necesitas para obtener cierto producto.
+### Fórmulas didácticas complementarias
+`CT = CF + CV` · `Costo medio total (CMeT) = CT/Q` · `Costo variable medio (CVMe) = CV/Q` · `Costo fijo medio (CFMe) = CF/Q` · `Costo marginal (CMg) = ΔCT/ΔQ` · `Beneficio = Ingreso total − Costo total` · `Ingreso total = P×Q`.
 
-**Isocuanta (ampliación correctiva):** curva de combinaciones de dos insumos que producen la **misma cantidad de producto**. **No es una curva de oferta**: la semana 9 pone «curvas isocuantas» cerca de la explicación de curvas de oferta, pero técnicamente son gráficos distintos.
+![Costos fijo, variable y total](imagenes_micro/costos.png)
 
-> **Feynman 👦**: 2 trabajadores con una máquina o 1 trabajador con dos máquinas podrían conseguir los mismos 100 panes: los dos puntos están en la misma isocuanta.
+### Guía para graficar costos a mano
+1. Eje X: unidades producidas; eje Y: Q de costo.
+2. Elige un CF constante, ejemplo Q200: traza una línea horizontal a esa altura.
+3. Si CV=35Q, calcula Q=0, 2, 4, 6, 8, 10 y dibuja la recta desde el origen.
+4. Para cada Q suma `CT=200+35Q`: la curva CT está **Q200 arriba** de CV.
+5. Identifica que al producir cero `CV(0)=0` y `CT(0)=CF=200` en este caso.
 
-### Dibujo manual: isocuanta frente a curva de oferta
+### Prácticas del tema 5 — [PRÁCTICA NUEVA]
+1. Fabrica 10 mesas: CF=Q500 y costo variable por mesa=Q70. Calcula CV, CT y costo medio total.
+2. Una empresa pasa de 20 a 25 unidades; CT sube de Q1,100 a Q1,250. Calcula costo marginal promedio del tramo.
+3. Clasifica por **trazabilidad**, no por volumen: harina usada específicamente para un pan; seguro general de la fábrica; empaque de cada producto.
+4. Una empresa aumenta turnos sobre su maquinaria actual. ¿Corto o largo plazo? ¿Qué cambio concreto sugeriría pasar a largo plazo?
+5. Una mejora tecnológica permite 120 unidades con los mismos insumos que antes daban 80. ¿Qué ocurre con la capacidad productiva? Calcula el aumento porcentual.
 
-- **Isocuanta:** eje X = trabajo L, eje Y = capital K; une combinaciones (L,K) que producen una Q fija. Bajo sustitución de insumos habitual, curva descendente y convexa al origen.
-- **Oferta:** eje X = producto Q, eje Y = precio P; representa cantidades a distintos precios y normalmente es ascendente.
+<details><summary><strong>Clave razonada — Tema 5</strong></summary>
 
-```text
-ISOCUANTA (Q constante)        OFERTA (precios y cantidades)
-K |●                           P |              / S
-  |  ●                           |           /
-  |     ●                        |        /
-  |        ●                     |     /
-  +-------------- L             +---------------- Q
-```
+1. CV=10×70=**Q700**; CT=500+700=**Q1,200**; CMeT=1,200/10=**Q120/mesa**.
+2. CMg promedio=(1,250−1,100)/(25−20)=150/5=**Q30 por unidad adicional**.
+3. Harina **directo**; seguro general **indirecto**; empaque individual **directo** en este ejemplo.
+4. **Corto plazo** si la maquinaria sigue fija; aumentar tamaño de planta o comprar nuevas máquinas ajustando todos los factores sugiere **largo plazo**.
+5. Mayor productividad/capacidad; `(120−80)/80×100=50%` más producción con los mismos insumos.
 
-### Práctica: 5 ejemplos
-
-1. Una empresa hace 100 unidades con (L=2,K=4) o con (L=4,K=2). ¿Qué gráfica reúne esas combinaciones?
-2. Una máquina permite hacer 150 productos donde antes se hacían 100 usando los mismos insumos. ¿Qué cambio ocurrió?
-3. ¿Qué ejes corresponden a una isocuanta y cuáles a una oferta?
-4. Una fábrica tiene capacidad máxima de 500 artículos diarios pero recibe pedidos de 700. ¿Qué restricción aparece?
-5. Con una producción de 60 unidades, compara (L=3,K=3) y (L=4,K=2): si ambas generan lo mismo, ¿qué se mantiene constante en la isocuanta?
+</details>
 
 ---
 
-# 7. Tiempo y toma de decisiones
+# 7. TEMA 6 — FPP O CURVA DE TRANSFORMACIÓN
 
-### Conceptos
+**Base:** *Semana 10*, págs. 1–3; *Curva de transformación/FPP*, págs. 2 y 6–7.
 
-**Toma de decisiones:** selección de una alternativa de acción con base en un problema, un objetivo, información, tiempo disponible y evaluación de consecuencias. La semana 10 destaca la importancia del contexto y del tiempo, sin imponer una duración universal.
+### Frontera de posibilidades de producción (FPP)
+**Definición técnica (material):** conjunto de combinaciones **máximas** de dos bienes que una economía puede producir con factores y tecnología dados en un período.  
+**🧒 Feynman:** tienes una tarde para cocinar **pan o tortillas** con una sola cocina. Si dedicas más tiempo a uno, normalmente queda menos tiempo para el otro.
 
-> **Feynman 👦**: elegir el mejor camino para llegar a la escuela mirando qué tan lejos está y cuánto tiempo tienes.
+### ⚠️ Aclaración sobre un texto contradictorio
+La definición reproducida en *Semana 10* y las diapositivas dice «factores y tecnología **ilimitados**», pero la misma lectura **establece factores dados y tecnología dada** y afirma que la FPP representa la **escasez**. Para comprender el modelo económico estándar debe interpretarse con **recursos limitados y tecnología dada**. Si aparece una pregunta literal del documento, distingue lo que **dice la diapositiva** de lo que **requiere el modelo**.
 
-**Árbol de decisiones:** representación ramificada de opciones y posibles resultados.
+### Supuestos del modelo (del material)
+1. Producción de **dos bienes** o dos canastas.
+2. Se trabaja por **unidad de tiempo**.
+3. **Tecnología dada** y mejor disponible.
+4. **Factores de producción dados**.
 
-> **Feynman 👦**: dibujas «si hago A, podría pasar esto; si hago B, aquello».
+### Puntos eficientes, ineficientes e inalcanzables
+**Definición técnica:** **sobre** la frontera: máximo factible con los recursos y tecnología; **dentro**: factible pero ineficiente o con recursos ociosos; **fuera**: no alcanzable bajo las condiciones actuales.  
+**🧒 Feynman:** sobre la raya usas toda la cocina; dentro de la raya la cocina tiene ratos sin trabajar; fuera de la raya necesitarías una cocina mejor o más recursos.
 
-**FODA:** fortalezas, oportunidades, debilidades y amenazas para comparar opciones.
+### Costo de oportunidad
+**Definición técnica:** valor de la mejor alternativa sacrificada al elegir otra opción. En FPP se mide como unidades de un bien **dejadas de producir** para producir más del otro.  
+**🧒 Feynman:** si por hacer una camisa adicional dejas de producir dos sacos de café, **esa camisa te costó la oportunidad de hacer dos sacos de café**.
 
-> **Feynman 👦**: una lista de lo que haces bien, lo que te falta, las oportunidades que hay y lo que podría complicarse.
+### Datos originales — café y camisas (miles por mes)
 
-### Los siete pasos del material
+| Alternativa | Café X | Camisas Y | Café sacrificado al pasar al siguiente nivel de camisas |
+|---|---:|---:|---:|
+| A | 15 | 0 | — |
+| B | 14 | 1 | 1 |
+| C | 12 | 2 | 2 |
+| D | 9 | 3 | 3 |
+| E | 5 | 4 | 4 |
+| F | 0 | 5 | 5 |
 
-1. **Identificar** la decisión y el objetivo.
-2. **Reunir** información relevante.
-3. **Identificar alternativas**, por ejemplo con un árbol.
-4. **Sopesar** ventajas y desventajas, con FODA si ayuda.
-5. **Elegir** una alternativa o combinación.
-6. **Implementar** con plan de acción.
-7. **Revisar** resultados y métricas de éxito.
+![FPP café y camisas, con los seis puntos originales](imagenes_micro/fpp_cafe_camisas.png)
+
+**Cálculo paso a paso:** de B(14,1) a C(12,2), se gana `ΔY=+1` mil camisas, se pierden `ΔX=−2` mil sacos de café; costo de oportunidad por mil camisas adicional = `|−2|/1=2` miles de sacos de café por cada mil camisas (equivale a 2 sacos por camisa en términos proporcionales). La secuencia de costos **1,2,3,4,5** ilustra costo de oportunidad creciente.
+
+### Datos originales — pan y tortillas (miles por mes)
+
+| Pan X | Tortillas Y | Sacrificio de pan por cada +2 de tortillas |
+|---:|---:|---:|
+| 15 | 0 | — |
+| 14 | 2 | 1 |
+| 12 | 4 | 2 |
+| 9 | 6 | 3 |
+| 5 | 8 | 4 |
+| 0 | 10 | 5 |
+
+### Cómo dibujar FPP a mano (y conseguir puntos en examen)
+1. Dibuja los ejes: X=café (o pan), Y=camisas (o tortillas).
+2. Elige escala: para café 0–15, cada cuadro grande 1 o 3; para camisas 0–5, cada cuadro grande 1.
+3. Coloca `A=(15,0)`, `B=(14,1)`, `C=(12,2)`, `D=(9,3)`, `E=(5,4)`, `F=(0,5)`.
+4. Une los puntos **en orden** con trazos suaves o segmentos; la curva es descendente y arqueada hacia el origen según orientación usual.
+5. Coloca un punto claramente **dentro** como (5,2) y otro **fuera** como (15,5); etiqueta «ineficiente» e «inalcanzable».
+6. Para costo de oportunidad B→C traza un segmento horizontal de 2 a la izquierda y vertical de 1 arriba; anota **renuncio a 2 de café por 1 de camisas**.
+7. Identifica si hay movimiento sobre la frontera (reasignación) o desplazamiento de toda la frontera (más recursos o mejor tecnología).
+
+### ⚠️ Diferencia crítica: movimiento y desplazamiento de FPP
+**Sobre una misma FPP:** cambias la combinación de bienes pero **no** los recursos ni la tecnología.  
+**FPP hacia afuera:** tecnología mejor, más factores o productividad; existen nuevas combinaciones máximas. Puede expandirse **asimétricamente** si solo mejora la tecnología de un sector.  
+**FPP hacia adentro:** menor capacidad productiva por pérdida duradera de recursos o infraestructura.
+
+### Prácticas del tema 6 — [PRÁCTICA NUEVA usando datos del material donde se indica]
+1. **[DATOS DEL MATERIAL]** Calcula los 5 costos marginales de oportunidad en café al avanzar A→F. ¿Qué patrón observas?
+2. **[DATOS DEL MATERIAL]** Para pan/tortilla, calcula cuánto pan se sacrifica al pasar de (12,4) a (9,6), y el costo de oportunidad por **1,000 tortillas** extra.
+3. **[DATOS DEL MATERIAL]** Clasifica (9,3), (5,2) y (15,5) para FPP café/camisas: sobre, dentro o fuera. Justifica.
+4. En una economía con FPP lineal entre (20,0) y (0,10), calcula costo de oportunidad de una unidad de Y en X. Dibuja la recta.
+5. Nueva maquinaria mejora solo la producción de camisas. Dibuja cómo cambia la FPP si el máximo de café permanece en 15 y el máximo de camisas pasa de 5 a 8.
+
+<details><summary><strong>Clave razonada — Tema 6</strong></summary>
+
+1. **1, 2, 3, 4 y 5** (miles de café perdidos por mil de camisas ganadas). **Crece** el costo de oportunidad marginal.
+2. Se sacrifican **3 mil panes** para obtener **2 mil tortillas** más: costo = `3/2=1.5` miles de pan por mil tortillas.
+3. (9,3) **sobre** (punto D); (5,2) **dentro** porque con Y=2 se puede producir X=12; (15,5) **fuera** porque excede la frontera.
+4. De Y=0 a Y=10 se pierden 20 de X: `20/10=2` unidades X por cada Y adicional; segmentos rectos con costo constante.
+5. Nueva frontera mantiene intercepto de X en **(15,0)**, pero intercepto de Y se desplaza a **(0,8)**; expansión orientada a camisas, no paralela necesariamente.
+
+</details>
+
+---
+
+# 8. TEMA 7 — TIEMPO Y TOMA DE DECISIONES
+
+**Base:** *Semana 10*, págs. 2–3; diapositivas de FPP, pág. 4.
+
+### Toma de decisiones
+**Definición técnica (material):** proceso de seleccionar una alternativa entre varias, o actuar ante una situación de incertidumbre, evaluando contexto, objetivos, información, consecuencias y tiempo disponible.  
+**🧒 Feynman:** quieres llegar a la universidad: puedes tomar bus, caminar o compartir un vehículo. Comparas qué opción tarda menos, cuesta menos y es más segura.
+
+### Los 7 pasos EXACTOS del material, en orden
+1. **Identificar la decisión** y objetivo.
+2. **Reunir información relevante**.
+3. **Identificar soluciones alternativas** (incluido árbol de decisiones).
+4. **Sopesar las soluciones** (ventajas, desventajas, FODA).
+5. **Elegir una alternativa** o combinación.
+6. **Poner en acción** el plan.
+7. **Revisar la decisión** y su impacto mediante métricas.
+
+### ⚠️ Árbol de decisiones
+**Definición técnica (ampliación):** representación de opciones, escenarios y resultados que permite comparar cursos de acción de manera estructurada.  
+**🧒 Feynman:** dibujas un camino que se divide en otros caminos, cada uno con un «¿qué podría pasar si elijo esto?».
 
 ```mermaid
 flowchart TD
-    A[1. Problema y objetivo] --> B[2. Información]
-    B --> C[3. Alternativas]
-    C --> D[4. Evaluación y FODA]
-    D --> E[5. Elección]
-    E --> F[6. Implementación]
-    F --> G[7. Revisión]
-    G -->|Corregir si hace falta| B
+A[Problema: aumentar producción] --> B{Elegir alternativa}
+B --> C[Horas extra]
+B --> D[Comprar máquina]
+C --> E[Capacidad inmediata; posible aumento de costos]
+D --> F[Mayor capacidad futura; requiere inversión]
+E --> G[Comparar con objetivos, elegir y revisar]
+F --> G
 ```
 
-**⚠️ Difícil — elegir no equivale a demostrar éxito:** el paso 7 comprueba resultados; una opción bien razonada aún puede fallar por riesgos o información incompleta.
+### FODA
+**Definición técnica (mencionada en el material):** análisis de **Fortalezas**, **Oportunidades**, **Debilidades** y **Amenazas** para comparar alternativas.  
+**🧒 Feynman:** preguntas «¿qué hacemos bien?, ¿qué oportunidad hay?, ¿qué nos falta?, ¿qué peligro viene?».
 
-> **Feynman 👦**: no basta escoger una receta: hay que probar cómo quedó el pastel.
+### Prácticas del tema 7 — [PRÁCTICA NUEVA]
+1. Escribe los siete pasos en orden **sin consultar**, indicando qué ocurre después de elegir.
+2. Una panadería necesita producir 30% más en un mes. Propón dos alternativas y **dos datos** que reunirías antes de decidir.
+3. Se decide aumentar el número de repartidores. Indica **una métrica** para revisar el éxito y qué se hace si el objetivo no se cumple.
+4. Clasifica: maquinaria moderna propia; nueva demanda del barrio; falta de efectivo; posible cierre de la carretera. ¿F, O, D o A?
+5. Construye un mini árbol con «seguir con horno» o «adquirir nuevo horno», y escribe una ventaja y una desventaja de cada opción.
 
-### Práctica: 5 ejemplos
+<details><summary><strong>Clave razonada — Tema 7</strong></summary>
 
-1. Una empresa tiene pérdidas pero no conoce sus causas. ¿Qué dos primeros pasos debería realizar?
-2. Menciona una alternativa tecnológica y una administrativa para reducir costos en una panadería.
-3. Una empresa identifica competencia agresiva. ¿En qué cuadrante FODA cae ese elemento externo desfavorable?
-4. El equipo compra una máquina y jamás revisa producción real. ¿Qué paso omitió?
-5. Propón una métrica concreta para evaluar una nueva máquina cuyo objetivo es reducir desperdicio.
+1. Identificar → reunir información → alternativas → sopesar → elegir → **poner en acción** → **revisar impacto**.
+2. Horas extra y nuevo equipo (u otra opción viable). Datos: capacidad actual, presupuesto, costo, plazo de entrega o demanda esperada.
+3. Porcentaje de entregas a tiempo o costo por pedido; comparar con meta y **corregir/reevaluar** si no se alcanza.
+4. Maquinaria propia = **F**; demanda externa creciente = **O**; falta de efectivo = **D**; cierre de carretera = **A**.
+5. Ejemplo válido: continuar = menor inversión inmediata, límite de capacidad; adquirir = mayor capacidad, desembolso alto. Se acepta respuesta coherente y razonada.
+
+</details>
 
 ---
 
-# 8. Glosario exprés para examen
+# 9. MANUAL UNIVERSAL DE GRÁFICAS A MANO
 
-| Término | Definición técnica breve | Feynman, en palabras fáciles |
+## Checklist previo (memorízalo)
+
+1. **¿Qué variables?** Oferta: eje Y precio, eje X cantidad. FPP: un bien en cada eje. Costos: costo en Y, producción en X.
+2. **¿Qué unidades?** Quetzales, panes, toneladas, miles por mes, etc.
+3. **¿Qué escala?** Intervalos uniformes; evita colocar 5, 10 y 100 a igual distancia.
+4. **¿Qué puntos?** Haz tabla (X,Y) antes de dibujar.
+5. **¿Una curva o dos?** Precio propio = misma S; costos/tecnología = nueva S.
+6. **¿Pendiente?** Oferta usual hacia arriba; FPP hacia abajo; CF horizontal.
+7. **¿Etiquetas?** S0/S1, A/B, Q1/Q2, P1/P2, dirección de flechas.
+8. **¿Interpretación?** Una frase con «debido a» y «manteniendo constantes».
+
+## Plantillas ASCII para copiar al cuaderno
+
+**Oferta creciente**
+```text
+Precio (P)
+  ^
+  |              S
+P2|----------● B
+  |         /
+P1|----● A /
+  |   /    |
+  +-------------------> Cantidad (Q)
+      Q1      Q2
+```
+
+**Oferta que aumenta por tecnología/costos menores**
+```text
+Precio (P)
+  ^
+  |      S0      S1
+  |     /       /
+P*|----●-------●--------  mismo precio
+  |   /       /
+  +-------------------> Cantidad (Q)
+      Q0      Q1
+```
+
+**FPP**
+```text
+Bien Y
+  ^
+  | ● F
+  |    ● E
+  |        ● D        × fuera
+  |           ● C
+  |   ○ dentro    ● B
+  |                  ● A
+  +------------------------> Bien X
+```
+
+**OJO:** los diagramas ASCII son esquemas; al graficar ejercicios con números hay que respetar las escalas reales y las coordenadas de la tabla.
+
+## Ejercicio de entrenamiento gráfico de 10 minutos
+
+En papel cuadriculado, sin mirar imágenes: (1) dibuja una oferta creciente con dos precios, (2) desplázala hacia la derecha por tecnología, (3) dibuja FPP café/camisas con seis puntos, (4) marca punto eficiente y punto inalcanzable. **Autocorrección:** ejes bien titulados, escalas correctas, puntos acordes y flechas en dirección correcta.
+
+---
+
+# 10. GLOSARIO TÉCNICO + FEYNMAN + FORMULARIO
+
+| Concepto | Definición técnica para examen | 🧒 Feynman |
 |---|---|---|
-| Escasez | Recursos insuficientes para satisfacer todos los usos deseados | No alcanza para todo |
-| Ceteris paribus | Mantener constantes los factores ajenos al estudiado | Cambia una cosa por vez |
-| Oferta | Relación de precios y cantidades ofrecidas | Cuánto se vendería a cada precio |
-| Cantidad ofrecida | Q asociada a un precio específico | Un punto de la línea |
-| Oferta de mercado | Suma horizontal de ofertas individuales | Sumar puestos al mismo precio |
-| Determinante | Variable que influye en la oferta | Algo que cambia cuánto venden |
-| Elasticidad | Sensibilidad proporcional Q ante P | Qué tanto reacciona Q |
-| Inelástica | E menor que 1 y mayor que 0 | Reacciona poquito |
-| Unitaria | E igual a 1 | Reacciona en igual proporción |
-| Elástica | E mayor que 1 | Reacciona mucho |
-| FPP | Máximas combinaciones posibles de dos bienes | Tus mejores mezclas de producción |
-| Eficiencia productiva | Uso pleno de los recursos dentro del modelo | Aprovechar lo disponible |
-| Costo de oportunidad | Mejor alternativa sacrificada | Lo que dejas de hacer |
-| Costo fijo | No depende de Q en rango/plazo dados | Pagas aunque hagas poco |
-| Costo variable | Cambia con Q | Más producción, más insumos |
-| Costo total | CF más CV | Todo lo que gastas |
-| Costo marginal | Aumento de CT por unidad adicional | Cuánto cuesta uno más |
-| Restricción tecnológica | Límite impuesto por insumos y tecnología | Lo que tu horno permite |
-| Isocuanta | Insumos alternativos para la misma producción | Recetas distintas, igual cantidad |
-| FODA | Diagnóstico de fortalezas, oportunidades, debilidades y amenazas | Lo bueno, lo mejorable, ayudas y peligros |
+| Oferta | Cantidades que productores venderían a diversos precios | Todas las opciones de venta de una tienda |
+| Cantidad ofrecida | Unidades a un precio específico | Una opción del menú de ventas |
+| Oferente | Productor/intermediario que pone un bien en venta | Quien ofrece el producto |
+| Demanda | Cantidades que consumidores desean y pueden comprar según precios (ampliación) | Lo que la gente está dispuesta a comprar |
+| Ley de oferta | Relación directa P–Q ofrecida, ceteris paribus | Mayor premio suele animar a producir más |
+| Ceteris paribus | Otros factores constantes | Cambiar una sola cosa |
+| Oferta individual | Oferta de una empresa | Una panadería |
+| Oferta de mercado | Suma de cantidades individuales a cada P | Todas las panaderías juntas |
+| Tabla de oferta | Correspondencias entre P y Qs | Lista de precios y cantidades |
+| Función de oferta | Qs expresada según P y otros determinantes | Fórmula-máquina que recibe P |
+| Expansión | Más cantidad ofrecida al subir el precio propio | Subir por la misma curva |
+| Contracción | Menos cantidad ofrecida al caer precio propio | Bajar por la misma curva |
+| Aumento de oferta | Más Q a cada P por otro determinante | Toda la curva va a la derecha |
+| Disminución de oferta | Menos Q a cada P por otro determinante | Toda la curva va a la izquierda |
+| Elasticidad precio oferta | %ΔQs relativo a %ΔP | Cuánto reacciona quien vende |
+| Oferta elástica | Es > 1 | Cantidad responde mucho |
+| Oferta inelástica | 0 < Es < 1 | Cantidad responde poco |
+| Oferta unitaria | Es = 1 | Ambos porcentajes iguales |
+| Perfectamente inelástica | Es = 0 | Vende igual aunque cambie P |
+| Perfectamente elástica | Es infinita en caso límite ideal | A precio fijo puede cambiar Q |
+| Producción | Transformación de insumos en bienes/servicios | Convertir harina en pan |
+| Factor de producción | Recurso empleado al producir | Horno, trabajador, harina |
+| Corto plazo | Existe algún insumo fijo | El horno no puede cambiar todavía |
+| Largo plazo | Todos los factores pueden ajustarse | Ya puedes comprar otro horno |
+| Restricción tecnológica | Límites por métodos y tecnología disponibles | La máquina tiene su límite |
+| Costo directo | Atribuible al objeto de costo | Harina de ese pan |
+| Costo indirecto | No atribuible directamente sin reparto | Seguro global del local |
+| Costo fijo | No cambia con volumen en rango relevante | Alquiler mensual acordado |
+| Costo variable | Cambia con volumen de producción | Harina por pan |
+| Costo total | Suma de costos fijos y variables | Todo lo que cuesta producir |
+| Costo marginal | Variación del CT por unidad adicional | Precio de fabricar uno más |
+| FPP | Combinaciones máximas de dos bienes con recursos/tecnología dados | Todas las combinaciones que puedes alcanzar |
+| Escasez | Recursos insuficientes para satisfacer todos los deseos | No alcanza el tiempo para hacer todo |
+| Eficiencia productiva | Producir sobre FPP con recursos disponibles | Ningún recurso desperdiciado |
+| Ineficiencia | Producir por debajo de FPP | Máquina parada innecesariamente |
+| Inalcanzable | Punto fuera de la FPP actual | No puedes producir tanto todavía |
+| Costo de oportunidad | Mejor alternativa sacrificada | Lo que dejas de hacer al elegir |
+| Cambio tecnológico | Mejoras de procesos/productos | Máquina que hace más con lo mismo |
+| Árbol de decisiones | Alternativas y consecuencias ramificadas | Caminos que se dividen |
+| FODA | Fortalezas, Oportunidades, Debilidades, Amenazas | Bien, oportunidad, problema, peligro |
+| Rentabilidad | Relación de beneficio con recursos invertidos (ampliación) | Si valió la pena el negocio |
 
-## Hoja de fórmulas
+## Formulario de examen (cópialo en una tarjeta)
 
-| Fórmula | Qué significa | Condición |
+| Qué calcular | Fórmula | No confundas |
 |---|---|---|
-| `Qmercado(P) = Σ Qi(P)` | Suma cantidades individuales al mismo P | Mismo bien/período/precio |
-| `Eₛ = [(Q₂−Q₁)/((Q₁+Q₂)/2)] / [(P₂−P₁)/((P₁+P₂)/2)]` | Elasticidad arco de oferta | P₁≠P₂, medias válidas |
-| `Costo de oportunidad de X = |ΔY/ΔX|` | Y sacrificado por unidad X | Tramo de FPP, ΔX≠0 |
-| `CT = CF + CV` | Costo total | Misma unidad de tiempo |
-| `CMe = CT / Q` | Costo promedio | Q>0 |
-| `CVMe = CV / Q` | Costo variable medio | Q>0 |
-| `CFMe = CF / Q` | Costo fijo medio | Q>0 |
-| `CMg = ΔCT / ΔQ` | Costo marginal discreto | ΔQ≠0 |
-| `IT = P × Q` | Ingreso total | Precio único por unidad |
-| `π = IT − CT` | Beneficio simplificado | Definición de costos consistente |
+| Cambio absoluto | `ΔX = X2 − X1` | Puede ser negativo |
+| Variación porcentual base inicial | `%ΔX = (X2 − X1)/X1 × 100` | División por **inicial** |
+| Oferta de mercado | `Qs_mercado(P)=Σ Qs_i(P)` | Suma **cantidades** al mismo P |
+| Función lineal oferta | `Qs = a+bP` | Usualmente b>0 en el ejemplo normal |
+| Despejar precio | `P=(Qs−a)/b` (si b≠0) | Respeta signos |
+| Elasticidad base inicial | `Es=[(Q2−Q1)/Q1]/[(P2−P1)/P1]` | Razón de porcentajes, no diferencias absolutas |
+| Elasticidad arco | `Es=[ΔQ/Qprom]/[ΔP/Pprom]` | `Qprom=(Q1+Q2)/2`, `Pprom=(P1+P2)/2` |
+| Costo total | `CT=CF+CV` | No mezclar categorías directo/indirecto |
+| Costo medio | `CMeT=CT/Q` | Requiere Q>0 |
+| Costo marginal tramo | `CMg=ΔCT/ΔQ` | No es costo medio |
+| Ingreso total | `IT=P×Q` | Solo si P común a todas las unidades |
+| Beneficio | `π=IT−CT` | Puede ser pérdida |
+| Costo oportunidad FPP | `CO(Y en X)=|ΔX/ΔY|` | Explica **qué bien sacrificas** |
+| Productividad (tasa de aumento) | `(nuevo−viejo)/viejo×100` | Usar misma unidad |
 
 ---
 
-# 9. Claves de respuesta — consulta solo tras intentarlo
+# 11. SIMULACRO EXPRESS (30 MINUTOS)
 
-## Tema 1 — Oferta
-1. **10 unidades** (3+5+2).
-2. P4→Qmercado3; P8→Qmercado7. Graficar (3,4) y (7,8), ejes Q horizontal/P vertical.
-3. Ley de oferta: cambio de Q ofrecida en el mismo sentido que P.
-4. **Cantidad ofrecida** en ese precio; no define toda la función de oferta.
-5. **Sí**, la empresa entra con 0; total **15**.
+**Instrucciones:** 20 minutos de respuesta, 10 de autocorrección. No mires las claves. Anota también **por qué**.
 
-## Tema 2 — Determinantes
-1. Movimiento ascendente **sobre** la curva.
-2. Aumento de oferta: **desplazamiento a la derecha**.
-3. Disminución de oferta: **izquierda**.
-4. **Puede disminuir la oferta actual** (izquierda) al retener producto; depende de capacidad de almacenamiento y otros factores.
-5. Mayor costo de transporte → normalmente **menor oferta** (izquierda).
+1. Define oferta en una oración y da un ejemplo con dos precios.
+2. Menciona dos determinantes subjetivos de la oferta.
+3. ¿Qué cambia si sube el precio propio de un producto, ceteris paribus: la oferta o la cantidad ofrecida?
+4. Si la tecnología abarata producción, ¿a dónde se desplaza la oferta?
+5. Dos empresas ofrecen 13 y 17 unidades a Q4, respectivamente. ¿Cuánto ofrece el mercado a Q4?
+6. `Qs=20+5P`. ¿Cuánto es Qs cuando P=6?
+7. P: 10→12; Q: 50→55. Calcula Es por base inicial y clasifica.
+8. Dibuja cómo se ve una oferta perfectamente inelástica.
+9. Nombra los cuatro supuestos de FPP de Semana 10.
+10. En la FPP café/camisas, ¿cuántos miles de café sacrificas al ir de D(9,3) a E(5,4)?
+11. ¿Un punto dentro de la FPP es inalcanzable, eficiente o ineficiente?
+12. ¿Qué diferencia un cambio de combinación sobre una FPP de un desplazamiento hacia afuera?
+13. CF=Q300, CV=Q900, Q=20. Halla CT y CMeT.
+14. Diferencia «costos directos» de «costos fijos».
+15. Escribe los siete pasos de decisión, en orden.
 
-## Tema 3 — Elasticidad
-1. `[(30−20)/25] / [(12−10)/11] = 0.4/0.1818 ≈ 2.20` → **elástica**.
-2. `(5/52.5)/(10/15) ≈ 0.1429` → **inelástica**.
-3. `(20/50)/(4/10)=1` → **unitaria**.
-4. `Eₛ=0`: **perfectamente inelástica**, línea vertical Q=30.
-5. `(10/15)/(10/10)≈0.6667` → **inelástica**.
+<details><summary><strong>CLAVE DEL SIMULACRO — abrir solo al terminar</strong></summary>
 
-## Tema 4 — FPP
-1. B→C: Y pasa de 19 a 16 → **sacrifica 3 Y** por ganar 2 X.
-2. C→D: Y cae 16→11, X aumenta 4→6 → **5/2=2.5 unidades Y por X**.
-3. A: **sobre frontera/eficiente**. I: **interior/ineficiente**. U: **exterior/inalcanzable** bajo condiciones dadas.
-4. Giro hacia afuera del extremo de **X** manteniendo igual, en el ejemplo estilizado, el máximo de Y.
-5. **Contracción hacia adentro** de la frontera, si se pierde capacidad relevante.
+1. Cantidades ofrecidas a distintos precios en mercado/período; ejemplo 10 a Q3, 15 a Q4.
+2. Expectativas de precio y voluntad de vender (o aspiración social y amor propio).
+3. **Cantidad ofrecida**; movimiento sobre S.
+4. **Derecha**; oferta mayor a cada P.
+5. **30**.
+6. 20+5(6)=**50**.
+7. `%ΔQ=5/50=10%`; `%ΔP=2/10=20%`; **Es=0.5**, inelástica.
+8. **Línea vertical** en ejes convencionales X=Q, Y=P.
+9. Dos bienes, tiempo fijado, tecnología dada y factores dados.
+10. **4 miles de café** por **1 mil de camisas**.
+11. **Ineficiente** (factible, interior).
+12. Movimiento = reasignación con misma capacidad; desplazamiento exterior = mayor capacidad por recursos/tecnología.
+13. CT=300+900=**Q1,200**; CMeT=1,200/20=**Q60**.
+14. Directo = trazable a producto; fijo = insensible al volumen dentro de rango relevante.
+15. Identificar; recopilar información; alternativas; sopesar; elegir; ejecutar; revisar.
 
-## Tema 5 — Costos
-1. `CT=100+250=Q350`.
-2. `CT=120+180=Q300`, `CMe=300/10=Q30 por unidad`.
-3. `CMg=(400−300)/(15−10)=Q20 por unidad adicional`.
-4. `IT=40×20=Q800`; beneficio simplificado `800−650=Q150`.
-5. Harina: **directa y variable** normalmente; alquiler: **indirecto y fijo** normalmente; electricidad total: suele ser **indirecta**, con componente fijo y/o variable según medición, maquinaria y contrato. Justificar, no memorizar etiquetas absolutas.
+**Puntaje orientativo:** 13–15: muy buen dominio; 10–12: repasar fallos y dibujar nuevamente; ≤9: repetir los bloques 2–6 antes de nuevo simulacro.
 
-## Tema 6 — Restricción tecnológica
-1. **Isocuanta** de Q=100.
-2. **Mejora tecnológica / productividad** si los insumos son iguales.
-3. Isocuanta: X=L, Y=K; oferta: X=Q, Y=P.
-4. **Restricción de capacidad productiva**: 500 máximo frente a 700 pedidos.
-5. Se mantiene **Q=60**; cambian las combinaciones de L y K.
+</details>
 
-## Tema 7 — Decisiones
-1. **1 identificar problema/objetivo; 2 reunir información** sobre causas y desempeño.
-2. Ejemplos: horno eficiente (tecnológica); reorganizar turnos (administrativa). Se aceptan otras alternativas justificadas.
-3. **Amenaza** (externa y desfavorable).
-4. **Paso 7: revisar resultado e impacto**.
-5. Ejemplo: **kilogramos desperdiciados por cada 100 productos**, antes y después; misma base de comparación.
+## Diez trampas frecuentes del examen
+
+1. **Oferta** no es sinónimo de **demanda**.
+2. **Oferta** no es sinónimo de **cantidad ofrecida**.
+3. Cambio del **precio propio** normalmente **no desplaza** la curva S.
+4. Cambio de **costos** sí puede desplazar S aun con mismo precio.
+5. Oferta de mercado **suma cantidades a un precio fijo**, no precios.
+6. En elasticidad **debe calcularse porcentaje**, no `ΔQ/ΔP` directamente.
+7. Si `ΔP=0`, revisa el **caso límite** y nunca divides entre cero.
+8. La FPP describe **combinaciones máximas**, no «lo que se quiere producir».
+9. Un punto **dentro** de la FPP es **posible pero ineficiente**; **fuera** es imposible bajo recursos/tecnología actuales.
+10. *Corto plazo* y *largo plazo* dependen de **ajustabilidad de factores**, no necesariamente meses o años.
+
+## Tarjetas de recuperación activa (hazlas sin ver respuesta)
+
+- ¿En qué eje va P en oferta convencional? → **Vertical**.
+- ¿Cómo se llama el movimiento al subir P? → **Expansión de cantidad ofrecida**.
+- Si baja el costo de producción, ¿qué ocurre con S? → **Derecha**.
+- ¿Cómo identifico oferta unitaria? → **Es=1**.
+- ¿Cómo identifico oferta perfectamente inelástica? → **Es=0, curva vertical**.
+- ¿Qué significa FPP? → **Frontera de posibilidades de producción**.
+- ¿Cuántos bienes considera el modelo presentado? → **Dos**.
+- ¿Costo de oportunidad creciente en café/camisas? → **1,2,3,4,5**.
+- ¿Qué acción sigue a elegir una alternativa? → **Ponerla en acción**.
+- ¿Qué haces después de ejecutar? → **Revisar la decisión y su impacto**.
+
+## Lista de control antes de entrar al examen
+
+- [ ] Puedo definir cada concepto técnico y explicarlo como si tuviera 10 años.
+- [ ] Puedo convertir tablas P/Q en coordenadas sin intercambiar ejes.
+- [ ] Puedo dibujar oferta, desplazamiento, límites de elasticidad y FPP sin imagen.
+- [ ] Puedo sumar dos ofertas individuales a precios compartidos.
+- [ ] Puedo despejar `Qs=a+bP`.
+- [ ] Puedo calcular elasticidad con porcentajes y clasificarla.
+- [ ] Puedo explicar la diferencia entre base inicial y punto medio.
+- [ ] Puedo calcular costo total, medio y marginal.
+- [ ] Puedo hallar costos de oportunidad en FPP.
+- [ ] Recuerdo los 7 pasos de decisión en orden.
+- [ ] Identifico las dos aclaraciones sobre «ilimitados» e «isocuantas» que aparecen en materiales.
 
 ---
 
-# 10. Simulacro acumulativo y señales de alerta
+# 12. NOTAS DE FIDELIDAD AL MATERIAL Y REFERENCIAS
 
-Hazlo **sin apuntes, durante 20 minutos**. No hace falta memorizar párrafos: explica causas y dibuja ejes.
+**Referencia 1.** *Semana 9 Microeconomía — Teoría de la Producción (parte II)*, 5 págs.: determinantes; oferta individual y de mercado; variaciones de oferta/cantidad; elasticidad y sus categorías.
 
-- [ ] Explico por qué el precio propio mueve un punto y el costo de insumos mueve la curva.
-- [ ] Sumo tres ofertas horizontales a un mismo precio.
-- [ ] Calculo Eₛ por punto medio y clasifico el resultado.
-- [ ] Identifico una FPP interior, un punto de frontera y uno exterior.
-- [ ] Calculo costo de oportunidad por tramo e interpreto unidades.
-- [ ] Distingo directo/indirecto de fijo/variable con un contraejemplo.
-- [ ] Explico por qué una isocuanta no representa oferta.
-- [ ] Recito y aplico los siete pasos de toma de decisiones.
+**Referencia 2.** *Oferta de mercado*, Licda. Astrid Cayax, 17 diapositivas: tabla de oferta de P5 a P8 (pág. 9), gráfica (pág. 11), función `Qx=45+1.5P` (pág. 13), desplazamientos (pág. 14), cinco ejercicios de elasticidad (pág. 17).
 
-**Errores que suelen costar puntos:** confundir eje P con Q; sumar precios en vez de cantidades; atribuir desplazamiento a precio propio; usar diferencias absolutas en vez de porcentajes en elasticidad; perder el signo/sentido del sacrificio en la FPP; dividir entre cero; asumir que todo costo indirecto es fijo; dibujar una isocuanta como si fuera una curva de oferta.
+**Referencia 3.** *Semana 10 Microeconomía — Curva de Transformación/FPP*, 3 págs.: supuestos, escasez, costos directos/indirectos, siete pasos decisionales, restricción tecnológica.
 
-### Método de corrección activa
+**Referencia 4.** *Curva de transformación o FPP*, Licda. Astrid Cayax, 7 diapositivas: FPP café/camisas (pág. 6) y pan/tortillas (pág. 7).
 
-1. Escribe el paso exacto donde te equivocaste.
-2. Reescribe la regla en una frase de menos de 15 palabras.
-3. Inventa un nuevo ejemplo cambiando cantidades/precios y resuélvelo.
-4. Explícaselo a una persona imaginaria de 10 años sin términos técnicos.
+**Aclaración adicional sobre «isocuantas»:** Semana 9 utiliza una frase que parece equiparar «curvas de oferta» e «isocuantas». **Académicamente son conceptos diferentes**: una curva de oferta vincula precio y cantidad vendida; una isocuanta representa combinaciones de insumos que generan el mismo nivel de producción. Las gráficas de precio/cantidad vistas en este temario son **curvas de oferta**, no isocuantas. Esta precisión es una ampliación conceptual para evitar una confusión al resolver problemas.
 
-### Fuentes y alcance
+**Sobre los ejercicios:** las 5 prácticas de elasticidad se basan directamente en los valores de la diapositiva 17; los datos de FPP y tabla de oferta se reproducen de las diapositivas; el resto son casos **nuevos para practicar**. Los archivos gráficos PNG incluidos son recreaciones pedagógicas, no fotografías de las diapositivas. No se garantiza que el examen oficial incluya exactamente estas preguntas; son escenarios de preparación según los temas entregados.
 
-- **Contenido del curso consultado:** `Semana 9 Microeconomía.md`: oferta, factores que la determinan, variaciones, elasticidad de la oferta; menciona producción a largo plazo e isocuantas.
-- **Contenido del curso consultado:** `Semana 10 Microeconomía.md`: curva de transformación/FPP, costos, tiempo y toma de decisiones, restricción y cambio tecnológicos.
-- **Ampliaciones creadas para practicar:** modelos numéricos, fórmulas de costos y oportunidad, detalle sobre isocuantas, tablas, gráficas de texto, preguntas y claves. Son apoyos explicativos, **no citas textuales de las diapositivas**.
-- **Material no inspeccionado:** `Semana 9 Microeconomía.pdf`, `Semana 10 Microeconomía.pdf`, `OFERTA DE MERCADO_20261025_225944_0000.pdf`, `LICDA ASTRID CAYAX_20261025_230118_0000.pdf` (no disponibles para lectura en esta sesión). Si contienen temas adicionales, esta guía no pretende cubrirlos.
-
-**Mini-mnemotecnia:** `P mueve Punto; Otros mueven Oferta`. `FPP = Factible, Pleno, Posible límite`. `CT = Fijo + Variable`. `Decidir = Identificar → Investigar → Alternativas → Evaluar → Elegir → Ejecutar → Examinar`.
+**Fin de la guía.** Consejo final: no cuentes cuántas páginas leíste; cuenta cuántos problemas pudiste **resolver y explicar sin ayuda**.
