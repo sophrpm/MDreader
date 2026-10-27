@@ -1,8 +1,33 @@
 # Guía profunda de contabilidad corporativa
 
-Plan universitario en bloques de 10–30 minutos · Material exclusivo de contabilidad · Moneda: quetzales (Q)
+> Plan universitario en bloques de 10–30 minutos · Material exclusivo de contabilidad · Moneda: quetzales (Q)
 
-## 1. Alcance, fuentes y forma de uso
+## ÍNDICE
+
+1. [Alcance, fuentes y forma de uso](#seccion-1)
+2. [Tema 1: contabilidad corporativa y estados financieros](#seccion-2)
+3. [Tema 2: capital y apertura de sociedades](#seccion-3)
+4. [Tema 3: venta de sociedades y due diligence](#seccion-4)
+5. [Tema 4: disolución y liquidación](#seccion-5)
+6. [Tema 5: valor de realización, rectificaciones y caso Atlas](#seccion-6)
+7. [Tema 6: acciones comunes y preferentes](#seccion-7)
+8. [Tema 7: nominal, prima, descuento e incremento de capital](#seccion-8)
+9. [Tema 8: dividendos y caso La Favorita](#seccion-9)
+10. [Tema 9: sistema financiero](#seccion-10)
+11. [Tema 10: fuentes y clasificación del financiamiento](#seccion-11)
+12. [Tema 11: bonos, intereses y sentido de valuación](#seccion-12)
+13. [Tema 12: resultados, flujos de fondos e incrementales](#seccion-13)
+14. [Taller de gráficas y diagramas a mano](#seccion-14)
+15. [Glosario de conceptos y fórmulas](#seccion-15)
+16. [Errores de alto impacto y preguntas de examen](#seccion-16)
+17. [Simulacro integrado y autoevaluación](#seccion-17)
+18. [Hoja personal de errores y repaso final](#seccion-18)
+
+---
+
+<a id="seccion-1"></a>
+
+# 1. Alcance, fuentes y forma de uso
 
 Esta guía desarrolla todos los núcleos de contenido identificados en los diez PDFs recuperados. Las explicaciones Feynman, los ejercicios nuevos y los diagramas son recursos didácticos elaborados para esta guía. No se recibieron archivos MD. No se incluye microeconomía.
 
@@ -58,15 +83,19 @@ Cada día tiene tres bloques de 20 minutos, divisibles en seis bloques de 10. Lo
 | 11 | Simulacro, primera mitad | Simulacro, segunda mitad | Corregir con claves |
 | 12 | Repasar errores repetidos | Explicación Feynman de cada tema | Hoja de fórmulas de memoria |
 
-## 2. Tema 1: contabilidad corporativa y estados financieros
+---
+
+<a id="seccion-2"></a>
+
+# 2. Tema 1: contabilidad corporativa y estados financieros
 
 **Definición técnica:** la contabilidad corporativa registra, organiza y presenta operaciones de sociedades para explicar su situación financiera, desempeño, cambios patrimoniales y movimientos de efectivo.
 
-**Feynman:** es el cuaderno de una empresa: anota qué tiene, qué debe, cuánto ganó y cuánto dinero entró o salió.
+**🧒 Feynman:** es el cuaderno de una empresa: anota qué tiene, qué debe, cuánto ganó y cuánto dinero entró o salió.
 
-**Conceptos difíciles: ACTIVO, PASIVO Y PATRIMONIO.** El activo representa recursos económicos controlados; el pasivo, obligaciones presentes; el patrimonio, el interés residual después de deducir pasivos. La ecuación es **A = P + PN**.
+**⚠️ Conceptos difíciles: ACTIVO, PASIVO Y PATRIMONIO.** El activo representa recursos económicos controlados; el pasivo, obligaciones presentes; el patrimonio, el interés residual después de deducir pasivos. La ecuación es **A = P + PN**.
 
-**Feynman:** si una tienda tiene cosas por Q100 y debe Q40, a sus dueños les corresponde una parte neta de Q60. No significa que haya Q60 en la caja.
+**🧒 Feynman:** si una tienda tiene cosas por Q100 y debe Q40, a sus dueños les corresponde una parte neta de Q60. No significa que haya Q60 en la caja.
 
 | Elemento o estado | Definición técnica | Feynman |
 |---|---|---|
@@ -80,11 +109,11 @@ Cada día tiene tres bloques de 20 minutos, divisibles en seis bloques de 10. Lo
 
 Los materiales destacan exactitud, claridad, técnica y legalidad como cualidades de preparación. Un encabezado identifica entidad, nombre del estado, fecha o período y moneda. El balance es “al” día; resultados y flujos son “por el período”.
 
-**Concepto difícil: FUSIÓN, ABSORCIÓN Y CONSOLIDACIÓN.** Una fusión combina entidades; en una absorción una entidad incorpora a otra que deja de existir como entidad separada; la consolidación presenta un grupo como una unidad económica, sin implicar por sí sola que desaparezcan sus entidades legales. Son menciones de la clase 24; no hay ejercicios de medición de combinaciones en los PDFs.
+**⚠️ Concepto difícil: FUSIÓN, ABSORCIÓN Y CONSOLIDACIÓN.** Una fusión combina entidades; en una absorción una entidad incorpora a otra que deja de existir como entidad separada; la consolidación presenta un grupo como una unidad económica, sin implicar por sí sola que desaparezcan sus entidades legales. Son menciones de la clase 24; no hay ejercicios de medición de combinaciones en los PDFs.
 
-**Feynman:** unir dos equipos, hacer que un equipo se incorpore a otro y sumar los informes de varios equipos son cosas distintas.
+**🧒 Feynman:** unir dos equipos, hacer que un equipo se incorpore a otro y sumar los informes de varios equipos son cosas distintas.
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. A = Q180,000; P = Q65,000. Calcula PN.
 2. Se recibe un préstamo de Q20,000 en bancos. ¿Cómo cambia la ecuación?
@@ -92,7 +121,7 @@ Los materiales destacan exactitud, claridad, técnica y legalidad como cualidade
 4. El dueño aporta Q10,000. ¿Es ingreso? ¿Qué estado explica directamente este cambio patrimonial?
 5. Relaciona: saldo de bancos al cierre; ventas anuales; dividendos distribuidos; cobros y pagos. Indica el estado principal para cada dato.
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. PN = 180,000 − 65,000 = **Q115,000**.
 2. A aumenta Q20,000 y P aumenta Q20,000; PN no cambia.
@@ -100,17 +129,23 @@ Los materiales destacan exactitud, claridad, técnica y legalidad como cualidade
 4. Es aporte, no ingreso. Lo explica el estado de cambios en el patrimonio.
 5. Situación financiera; resultados; cambios en el patrimonio; flujos de efectivo, respectivamente. El efectivo final también se concilia en flujos.
 
-**Frecuente en examen:** confundir saldo con movimiento; tratar préstamos o aportes como ingresos; creer que patrimonio equivale a efectivo. Verificación: cada operación debe conservar A = P + PN.
+</details>
 
-## 3. Tema 2: capital y apertura de sociedades
+**⚠️ Frecuente en examen:** confundir saldo con movimiento; tratar préstamos o aportes como ingresos; creer que patrimonio equivale a efectivo. Verificación: cada operación debe conservar A = P + PN.
+
+---
+
+<a id="seccion-3"></a>
+
+# 3. Tema 2: capital y apertura de sociedades
 
 **Definición técnica:** el capital autorizado es el límite de emisión aprobado en el esquema del caso; el suscrito es el compromiso asumido por accionistas; el pagado es la parte efectivamente aportada.
 
-**Feynman:** puedes ofrecer 1,000 boletos, alguien promete comprar 700 y paga 500. Ofrecer, prometer y pagar no son lo mismo.
+**🧒 Feynman:** puedes ofrecer 1,000 boletos, alguien promete comprar 700 y paga 500. Ofrecer, prometer y pagar no son lo mismo.
 
-**Concepto difícil: AUTORIZADO ≥ SUSCRITO ≥ PAGADO**, bajo el esquema nominal del ejercicio. Si todas las acciones tienen nominal v: capital = número de acciones × v. Pendiente de suscribir = autorizado − suscrito; pendiente de pago = suscrito − pagado.
+**⚠️ Concepto difícil: AUTORIZADO ≥ SUSCRITO ≥ PAGADO**, bajo el esquema nominal del ejercicio. Si todas las acciones tienen nominal v: capital = número de acciones × v. Pendiente de suscribir = autorizado − suscrito; pendiente de pago = suscrito − pagado.
 
-**Feynman:** los boletos disponibles incluyen los prometidos, y los prometidos incluyen los que ya pagaron.
+**🧒 Feynman:** los boletos disponibles incluyen los prometidos, y los prometidos incluyen los que ya pagaron.
 
 ### Caso Ciriaco, reconstruido del PDF
 
@@ -124,7 +159,7 @@ Los materiales destacan exactitud, claridad, técnica y legalidad como cualidade
 
 Balance final: A = Q100,000; P = Q0; PN = Q100,000. Las cuentas puente quedan en cero. Este es el método del material; no debe suponerse que el capital meramente autorizado se presenta como patrimonio aportado en cualquier marco contable. En balances con suscripción o pago parcial, identifica el criterio exigido por la clase.
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. Autoriza 2,000 acciones de Q50. ¿Capital autorizado?
 2. De esas acciones suscribe 1,200 y paga 900. Calcula suscrito, pagado y saldos pendientes.
@@ -132,7 +167,7 @@ Balance final: A = Q100,000; P = Q0; PN = Q100,000. Las cuentas puente quedan en
 4. Autoriza, suscribe y cobra 400 acciones de Q250, todo en bancos. Da los tres asientos docentes.
 5. Un alumno registra el cobro como Debe bancos / Haber ventas. Corrige y explica.
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. 2,000 × 50 = **Q100,000**.
 2. Suscrito Q60,000; pagado Q45,000; por suscribir Q40,000; por cobrar a suscriptores Q15,000.
@@ -140,25 +175,31 @@ Balance final: A = Q100,000; P = Q0; PN = Q100,000. Las cuentas puente quedan en
 4. Debe acciones por suscribir / Haber capital autorizado Q100,000; Debe suscriptores / Haber acciones por suscribir Q100,000; Debe bancos / Haber suscriptores Q100,000.
 5. Haber suscriptores si se sigue la secuencia anterior; el cobro cancela el compromiso de aporte. No es una venta de bienes o servicios.
 
-**Frecuente en examen:** multiplicar por precio de mercado en lugar del nominal; omitir una cuenta puente; no comprobar su cancelación al pagarse todo.
+</details>
 
-## 4. Tema 3: venta de sociedades y due diligence
+**⚠️ Frecuente en examen:** multiplicar por precio de mercado en lugar del nominal; omitir una cuenta puente; no comprobar su cancelación al pagarse todo.
+
+---
+
+<a id="seccion-4"></a>
+
+# 4. Tema 3: venta de sociedades y due diligence
 
 **Definición técnica:** en una venta de acciones o participaciones se transfiere la titularidad de instrumentos de propiedad. En la venta de una unidad de negocio se transfieren activos, contratos u otros componentes definidos por el acuerdo.
 
-**Feynman:** puedes vender los boletos que te hacen dueño de una tienda o vender las cosas y la actividad de la tienda. No es la misma operación.
+**🧒 Feynman:** puedes vender los boletos que te hacen dueño de una tienda o vender las cosas y la actividad de la tienda. No es la misma operación.
 
-**Concepto difícil: PRECIO DE LAS ACCIONES ≠ EFECTIVO RECIBIDO POR LA SOCIEDAD.** Si un socio vende sus acciones a otro inversionista, el dinero suele intercambiarse entre ellos; no es automáticamente una nueva aportación a la empresa.
+**⚠️ Concepto difícil: PRECIO DE LAS ACCIONES ≠ EFECTIVO RECIBIDO POR LA SOCIEDAD.** Si un socio vende sus acciones a otro inversionista, el dinero suele intercambiarse entre ellos; no es automáticamente una nueva aportación a la empresa.
 
-**Feynman:** si vendes tu parte del equipo a un amigo, él te paga a ti; la alcancía del equipo no se llena por eso.
+**🧒 Feynman:** si vendes tu parte del equipo a un amigo, él te paga a ti; la alcancía del equipo no se llena por eso.
 
 **Due diligence, definición técnica:** revisión sistemática de información financiera, legal, fiscal, laboral y operativa para identificar riesgos y respaldar la negociación.
 
-**Feynman:** antes de comprar una bicicleta usada, revisas frenos, papeles y daños escondidos.
+**🧒 Feynman:** antes de comprar una bicicleta usada, revisas frenos, papeles y daños escondidos.
 
 Secuencia del material: contacto → carta de intenciones y oferta condicionada → revisión → negociación de condiciones → contrato de compraventa. Las duraciones citadas en clase son ilustrativas, no plazos obligatorios. Una carta de intenciones no permite asumir, sin leerla, que toda la compraventa ya está cerrada.
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. Un socio vende sus acciones por Q150,000 a un tercero. ¿Recibe ese efectivo la sociedad?
 2. Se venden inventarios, equipo y contratos de una sucursal. Clasifica el formato.
@@ -166,7 +207,7 @@ Secuencia del material: contacto → carta de intenciones y oferta condicionada 
 4. Ordena: contrato definitivo, oferta inicial, revisión de riesgos, negociación de condiciones.
 5. El comprador ofrece pagar PN ajustado más Q20,000 por expectativas comerciales. A ajustado Q300,000 y P Q110,000. Calcula el precio bajo ese supuesto.
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. No necesariamente: en el supuesto indicado lo recibe el socio vendedor; no aumenta el capital de la sociedad.
 2. Venta de unidad de negocio o rama de actividad.
@@ -174,21 +215,27 @@ Secuencia del material: contacto → carta de intenciones y oferta condicionada 
 4. Oferta → revisión → negociación → contrato. En la práctica pueden existir rondas repetidas.
 5. PN = 300,000 − 110,000 = Q190,000; precio supuesto = **Q210,000**. No es una fórmula universal de valuación.
 
-**Frecuente en examen:** distinguir comprador, vendedor y sociedad; identificar contingencias; explicar por qué precio pactado y patrimonio contable pueden diferir.
+</details>
 
-## 5. Tema 4: disolución y liquidación
+**⚠️ Frecuente en examen:** distinguir comprador, vendedor y sociedad; identificar contingencias; explicar por qué precio pactado y patrimonio contable pueden diferir.
+
+---
+
+<a id="seccion-5"></a>
+
+# 5. Tema 4: disolución y liquidación
 
 **Definición técnica:** la disolución inicia el proceso de terminación de la actividad ordinaria bajo la causa correspondiente; la liquidación realiza activos, atiende obligaciones y distribuye el remanente que proceda.
 
-**Feynman:** primero decides cerrar la tienda; después cobras lo pendiente, vendes lo que queda, pagas deudas y repartes lo sobrante.
+**🧒 Feynman:** primero decides cerrar la tienda; después cobras lo pendiente, vendes lo que queda, pagas deudas y repartes lo sobrante.
 
-**Concepto difícil: REMANENTE ≠ ACTIVO TOTAL.** Remanente = efectivo realizado − obligaciones pagadas − gastos de liquidación, bajo el supuesto de que todo se convierte en efectivo y no quedan otros ajustes.
+**⚠️ Concepto difícil: REMANENTE ≠ ACTIVO TOTAL.** Remanente = efectivo realizado − obligaciones pagadas − gastos de liquidación, bajo el supuesto de que todo se convierte en efectivo y no quedan otros ajustes.
 
-**Feynman:** no puedes repartir toda la alcancía si parte pertenece a quienes te prestaron.
+**🧒 Feynman:** no puedes repartir toda la alcancía si parte pertenece a quienes te prestaron.
 
 El material llama liquidación corriente al caso donde alcanza para pagar pasivos y queda sobrante. Presenta la quiebra como caso deficitario o de cesación de pagos. Para resolver problemas numéricos, calcula cobertura y déficit; no declares un estado jurídico de quiebra solo a partir de una resta. Falta de liquidez e insuficiencia patrimonial son conceptos diferentes.
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. Realización Q240,000, deudas Q170,000 y gastos Q10,000. ¿Remanente?
 2. Realización Q90,000 y deudas Q120,000, sin gastos. ¿Déficit?
@@ -196,7 +243,7 @@ El material llama liquidación corriente al caso donde alcanza para pagar pasivo
 4. Ordena: distribuir a socios, atender obligaciones y gastos, realizar activos, acordar disolución.
 5. Quedan Q80,000 para dos socios con derechos de reparto del 60 % y 40 %. ¿Cuánto recibe cada uno?
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. 240,000 − 170,000 − 10,000 = **Q60,000**.
 2. 120,000 − 90,000 = **Q30,000** de insuficiencia.
@@ -204,17 +251,23 @@ El material llama liquidación corriente al caso donde alcanza para pagar pasivo
 4. Disolución → realización → obligaciones y gastos → reparto. Los cobros y pagos pueden ocurrir por etapas.
 5. **Q48,000 y Q32,000**; los porcentajes son un supuesto de derechos de distribución, no una regla general.
 
-**Frecuente en examen:** distribuir antes de pagar obligaciones; olvidar gastos; equiparar insolvencia patrimonial con iliquidez temporal.
+</details>
 
-## 6. Tema 5: valor de realización, rectificaciones y caso Atlas
+**⚠️ Frecuente en examen:** distribuir antes de pagar obligaciones; olvidar gastos; equiparar insolvencia patrimonial con iliquidez temporal.
+
+---
+
+<a id="seccion-6"></a>
+
+# 6. Tema 5: valor de realización, rectificaciones y caso Atlas
 
 **Definición técnica:** el valor en libros es el importe registrado; el valor de realización es el importe esperado o acordado para convertir el activo en recursos durante la liquidación del caso.
 
-**Feynman:** tu bicicleta puede aparecer en tu cuaderno por Q800, pero si al venderla solo consigues Q600, debes reconocer esa diferencia.
+**🧒 Feynman:** tu bicicleta puede aparecer en tu cuaderno por Q800, pero si al venderla solo consigues Q600, debes reconocer esa diferencia.
 
-**Concepto difícil: RECTIFICACIÓN = REALIZACIÓN − LIBROS.** Positiva: aumenta el remanente; negativa: lo disminuye. El método docente usa una cuenta de rectificaciones; el nombre y presentación concretos dependen del sistema utilizado.
+**⚠️ Concepto difícil: RECTIFICACIÓN = REALIZACIÓN − LIBROS.** Positiva: aumenta el remanente; negativa: lo disminuye. El método docente usa una cuenta de rectificaciones; el nombre y presentación concretos dependen del sistema utilizado.
 
-**Feynman:** compara lo que realmente puedes conseguir con lo que habías anotado, sin cambiar el signo para que “se vea bonito”.
+**🧒 Feynman:** compara lo que realmente puedes conseguir con lo que habías anotado, sin cambiar el signo para que “se vea bonito”.
 
 ### Atlas: conciliación completa
 
@@ -254,7 +307,7 @@ Estas proporciones se deducen de los pagos mostrados, no de una lista de aportac
 
 Asiento final docente: Debe acreedores Q190,500; documentos por pagar Q100,400; cuentas de socios Q977,100 / Haber liquidador Q1,268,000. El caso supone que se dispone de los recursos para liquidar esas obligaciones; no incorpora gastos adicionales.
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. Una cuenta de Q50,000 se realiza por Q44,000. Da ajuste y asiento docente.
 2. Inventario Q70,000 se realiza por Q85,000. Da ajuste y asiento.
@@ -262,7 +315,7 @@ Asiento final docente: Debe acreedores Q190,500; documentos por pagar Q100,400; 
 4. Verifica el patrimonio ajustado de Atlas por dos caminos.
 5. En Atlas el vehículo se realiza por Q95,000 en vez de Q90,000. Manteniendo todo lo demás, calcula nuevo remanente y pago de Alfonso al 32 %.
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. −Q6,000; Debe rectificaciones Q6,000 / Haber cuenta por cobrar Q6,000.
 2. +Q15,000; Debe inventario Q15,000 / Haber rectificaciones Q15,000.
@@ -270,17 +323,23 @@ Asiento final docente: Debe acreedores Q190,500; documentos por pagar Q100,400; 
 4. 980,000 − 2,900 = **977,100**; también 1,268,000 − 290,900 = **977,100**.
 5. Remanente **Q982,100**; Alfonso = 982,100 × 0.32 = **Q314,272**.
 
-**Frecuente en examen:** omitir bajas de diferidos; compensar mal signos; restar dos veces pérdidas; repartir capital nominal en vez de patrimonio ajustado; confundir cuenta puente con efectivo cobrado.
+</details>
 
-## 7. Tema 6: acciones comunes y preferentes
+**⚠️ Frecuente en examen:** omitir bajas de diferidos; compensar mal signos; restar dos veces pérdidas; repartir capital nominal en vez de patrimonio ajustado; confundir cuenta puente con efectivo cobrado.
+
+---
+
+<a id="seccion-7"></a>
+
+# 7. Tema 6: acciones comunes y preferentes
 
 **Definición técnica:** una acción representa participación en el capital. Las comunes suelen tener derechos residuales; las preferentes incorporan prioridades específicas, por ejemplo en dividendos o liquidación, conforme a sus condiciones.
 
-**Feynman:** ambos tienen una parte del pastel, pero algunos boletos dan prioridad para recibir una porción antes que otros.
+**🧒 Feynman:** ambos tienen una parte del pastel, pero algunos boletos dan prioridad para recibir una porción antes que otros.
 
-**Concepto difícil: PREFERENCIA NO ES GARANTÍA.** Un dividendo estipulado no equivale a rendimiento sin riesgo. Derechos de voto, acumulación y reparto dependen del instrumento. Las diapositivas que hablan de rendimiento asegurado, ausencia de riesgo o responsabilidad ilimitada no deben convertirse en propiedades universales de las acciones preferentes.
+**⚠️ Concepto difícil: PREFERENCIA NO ES GARANTÍA.** Un dividendo estipulado no equivale a rendimiento sin riesgo. Derechos de voto, acumulación y reparto dependen del instrumento. Las diapositivas que hablan de rendimiento asegurado, ausencia de riesgo o responsabilidad ilimitada no deben convertirse en propiedades universales de las acciones preferentes.
 
-**Feynman:** tener primero el turno no asegura que haya pastel suficiente.
+**🧒 Feynman:** tener primero el turno no asegura que haya pastel suficiente.
 
 | Pregunta | Acción común | Acción preferente |
 |---|---|---|
@@ -289,7 +348,7 @@ Asiento final docente: Debe acreedores Q190,500; documentos por pagar Q100,400; 
 | ¿Prioridad? | Residual frente a preferencias aplicables | Según derechos del título |
 | ¿Voto? | Habitual | Puede estar limitado o existir en ciertos supuestos |
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. Un inversionista quiere participación residual y voto habitual. ¿Qué clase encaja con la comparación docente?
 2. Una preferente promete 8 % sobre Q100. ¿Su fórmula de dividendo estipulado por acción?
@@ -297,7 +356,7 @@ Asiento final docente: Debe acreedores Q190,500; documentos por pagar Q100,400; 
 4. Una acción dice “sin voto ordinario, preferencia en dividendos”. Identifica dos derechos distintos.
 5. Un alumno dice que comprar una preferente elimina todo riesgo. Corrige con una frase y un ejemplo.
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. Acción común, con la salvedad de revisar derechos específicos.
 2. 100 × 0.08 = **Q8 por año** bajo ese supuesto.
@@ -305,21 +364,27 @@ Asiento final docente: Debe acreedores Q190,500; documentos por pagar Q100,400; 
 4. Derecho político limitado y derecho económico preferente.
 5. La prioridad no elimina riesgo; una liquidación puede dejar sin recursos suficientes incluso a quienes tienen preferencia.
 
-**Frecuente en examen:** bono = acreedor; acción = participación patrimonial según sus términos. No intercambiar “preferente” por “libre de riesgo”.
+</details>
 
-## 8. Tema 7: nominal, prima, descuento e incremento de capital
+**⚠️ Frecuente en examen:** bono = acreedor; acción = participación patrimonial según sus términos. No intercambiar “preferente” por “libre de riesgo”.
+
+---
+
+<a id="seccion-8"></a>
+
+# 8. Tema 7: nominal, prima, descuento e incremento de capital
 
 **Definición técnica:** valor nominal es el importe asignado por acción al capital; precio de emisión es lo pagado a la sociedad por nuevas acciones; precio de negociación es el pactado entre inversionistas. Sobre par significa precio mayor que nominal; a la par, igual; bajo par, menor.
 
-**Feynman:** un boleto puede decir Q100 y venderse por Q120. Los Q20 adicionales no cambian el número impreso.
+**🧒 Feynman:** un boleto puede decir Q100 y venderse por Q120. Los Q20 adicionales no cambian el número impreso.
 
-**Concepto difícil: EMISIÓN PRIMARIA ≠ COMPRAVENTA SECUNDARIA.** Emitir nuevas acciones puede aportar recursos a la sociedad y diluir porcentajes; vender acciones existentes entre socios no incrementa por sí mismo su capital.
+**⚠️ Concepto difícil: EMISIÓN PRIMARIA ≠ COMPRAVENTA SECUNDARIA.** Emitir nuevas acciones puede aportar recursos a la sociedad y diluir porcentajes; vender acciones existentes entre socios no incrementa por sí mismo su capital.
 
-**Feynman:** imprimir boletos nuevos cambia cuántas partes hay; pasar un boleto existente a otra persona no crea partes nuevas.
+**🧒 Feynman:** imprimir boletos nuevos cambia cuántas partes hay; pasar un boleto existente a otra persona no crea partes nuevas.
 
 Fórmulas: capital nominal emitido = N × v; efectivo de emisión = N × p; prima = N × (p − v), cuando p > v. Descuento aritmético = N × (v − p), cuando p < v. La comparación bajo par no demuestra que una emisión bajo nominal esté permitida ni determina su asiento: los PDFs no desarrollan ese tratamiento normativo.
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. Nominal Q100 y precio Q115: clasifica y calcula diferencia unitaria.
 2. Emite 500 acciones nominal Q100 a Q120. Da efectivo, capital nominal, prima y asiento simplificado de cobro directo.
@@ -327,7 +392,7 @@ Fórmulas: capital nominal emitido = N × v; efectivo de emisión = N × p; prim
 4. Hay 1,000 acciones; Ana posee 250. Se emiten 500 y Ana no compra. ¿Porcentajes antes y después?
 5. La sociedad recibe un préstamo bancario Q60,000. ¿Aumenta capital social? Explica frente a emisión de acciones.
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. Sobre par; prima unitaria **Q15**.
 2. Efectivo Q60,000; capital Q50,000; prima Q10,000. Debe bancos Q60,000 / Haber capital Q50,000 y prima de emisión Q10,000.
@@ -335,17 +400,23 @@ Fórmulas: capital nominal emitido = N × v; efectivo de emisión = N × p; prim
 4. Antes 250/1,000 = **25 %**; después 250/1,500 = **16.67 %** aproximadamente.
 5. Aumenta pasivo, no capital social. La clase 23 agrupa varias fuentes a largo plazo; préstamo y arrendamiento financiero no son automáticamente aumentos de capital.
 
-**Frecuente en examen:** confundir prima con ingreso por ventas; confundir precio con nominal; usar el denominador anterior después de una nueva emisión.
+</details>
 
-## 9. Tema 8: dividendos y caso La Favorita
+**⚠️ Frecuente en examen:** confundir prima con ingreso por ventas; confundir precio con nominal; usar el denominador anterior después de una nueva emisión.
+
+---
+
+<a id="seccion-9"></a>
+
+# 9. Tema 8: dividendos y caso La Favorita
 
 **Definición técnica:** el dividendo preferente estipulado por acción se obtiene aplicando la tasa al importe base indicado. El dividendo común por acción distribuye entre acciones comunes el importe destinado a ellas.
 
-**Feynman:** primero separas la porción acordada para los boletos preferentes; luego divides lo que decidiste repartir a los comunes entre todos sus boletos.
+**🧒 Feynman:** primero separas la porción acordada para los boletos preferentes; luego divides lo que decidiste repartir a los comunes entre todos sus boletos.
 
-**Concepto difícil: UTILIDAD DISPONIBLE ≠ DIVIDENDO AUTOMÁTICO.** Para usar Dc = UdA/NAc como dividendo, el caso debe suponer que toda esa utilidad disponible se distribuye. Si se retiene una parte, divide solamente el total destinado a dividendos. Utilidad por acción y dividendo por acción no son sinónimos.
+**⚠️ Concepto difícil: UTILIDAD DISPONIBLE ≠ DIVIDENDO AUTOMÁTICO.** Para usar Dc = UdA/NAc como dividendo, el caso debe suponer que toda esa utilidad disponible se distribuye. Si se retiene una parte, divide solamente el total destinado a dividendos. Utilidad por acción y dividendo por acción no son sinónimos.
 
-**Feynman:** ganar Q100 no obliga a sacar Q100 de la alcancía; puedes guardar una parte.
+**🧒 Feynman:** ganar Q100 no obliga a sacar Q100 de la alcancía; puedes guardar una parte.
 
 Fórmulas docentes: Dp = Ap × i; total preferente = Dp × NAp; disponible común = utilidad distribuible − total preferente; Dc = disponible común/NAc, suponiendo distribución total. Ap es nominal en el caso, no precio de mercado.
 
@@ -355,7 +426,7 @@ Bonos Q80,000; 1,100 comunes de Q300; 100 preferentes de Q300 al 7 %; resultado 
 
 Dp = 300 × 0.07 = Q21; total preferente = 21 × 100 = Q2,100. Si Q21,900 ya está disponible después de intereses e impuestos y se distribuye todo: comunes Q19,800; Dc = 19,800/1,100 = **Q18 por acción**. No se puede deducir interés de los bonos sin tasa y plazo. Si el resultado fuese anterior a esos conceptos, faltan datos para una respuesta definitiva.
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. Preferente de Q200 al 6 %. Calcula dividendo unitario.
 2. Hay 300 preferentes como las anteriores. ¿Total preferente?
@@ -363,7 +434,7 @@ Dp = 300 × 0.07 = Q21; total preferente = 21 × 100 = Q2,100. Si Q21,900 ya est
 4. En el ejercicio 3 solo se reparte el 50 % del remanente común. ¿Dc y retención de ese remanente?
 5. En La Favorita, resultado disponible sube a Q24,100; demás datos iguales. Calcula Dc con reparto total.
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. 200 × 0.06 = **Q12**.
 2. 300 × 12 = **Q3,600**.
@@ -371,21 +442,27 @@ Dp = 300 × 0.07 = Q21; total preferente = 21 × 100 = Q2,100. Si Q21,900 ya est
 4. Remanente Q11,400; reparto Q5,700; Dc = **Q9.50**; retención Q5,700.
 5. (24,100 − 2,100)/1,100 = **Q20**.
 
-**Frecuente en examen:** restar un dividendo unitario en vez del total preferente; dividir por todas las acciones en lugar de solo las comunes; suponer que calcular dividendos equivale a valorar el precio de una acción.
+</details>
 
-## 10. Tema 9: sistema financiero
+**⚠️ Frecuente en examen:** restar un dividendo unitario en vez del total preferente; dividir por todas las acciones en lugar de solo las comunes; suponer que calcular dividendos equivale a valorar el precio de una acción.
+
+---
+
+<a id="seccion-10"></a>
+
+# 10. Tema 9: sistema financiero
 
 **Definición técnica:** conjunto de instituciones y mecanismos que canalizan recursos entre agentes con excedentes y agentes que requieren financiamiento, mediante instrumentos y servicios financieros.
 
-**Feynman:** es una red que conecta alcancías con dinero disponible y proyectos que necesitan usarlo.
+**🧒 Feynman:** es una red que conecta alcancías con dinero disponible y proyectos que necesitan usarlo.
 
 La clase 23 presenta una división didáctica entre sistema formal regulado y actividades fuera de ese esquema. Enumera Junta Monetaria, Banco de Guatemala, Superintendencia de Bancos, bancos, sociedades financieras, casas de cambio y auxiliares de crédito. No todos cumplen la misma función: autoridad monetaria, banca central, supervisión e intermediación son categorías distintas. Estar constituido o fiscalizado tributariamente no equivale por sí solo a estar supervisado como banco.
 
-**Concepto difícil: INTERMEDIACIÓN Y SUPERVISIÓN.** Intermediar canaliza fondos; supervisar vigila entidades dentro de su ámbito. La reducción de ciertos riesgos por intermediación no implica eliminar el riesgo.
+**⚠️ Concepto difícil: INTERMEDIACIÓN Y SUPERVISIÓN.** Intermediar canaliza fondos; supervisar vigila entidades dentro de su ámbito. La reducción de ciertos riesgos por intermediación no implica eliminar el riesgo.
 
-**Feynman:** el que organiza el préstamo y el árbitro que revisa las reglas tienen trabajos diferentes.
+**🧒 Feynman:** el que organiza el préstamo y el árbitro que revisa las reglas tienen trabajos diferentes.
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. Una familia ahorra y una empresa obtiene crédito. Identifica oferente y demandante de fondos.
 2. Una entidad recibe depósitos y concede créditos. ¿Qué función ilustra?
@@ -393,7 +470,7 @@ La clase 23 presenta una división didáctica entre sistema formal regulado y ac
 4. Una empresa está inscrita y paga impuestos. ¿Eso demuestra que es banco supervisado?
 5. Indica dos beneficios de canalizar ahorros mediante instituciones y una limitación.
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. Familia: oferente; empresa: demandante.
 2. Intermediación financiera.
@@ -401,13 +478,19 @@ La clase 23 presenta una división didáctica entre sistema formal regulado y ac
 4. No; hay que distinguir constitución, fiscalización tributaria y autorización/supervisión financiera.
 5. Conexión entre ahorro e inversión y economías de escala; el riesgo de incumplimiento no desaparece.
 
-**Frecuente en examen:** enumerar instituciones sin distinguir funciones; confundir garantía con supervisión; interpretar la clasificación de clase como registro actualizado de entidades autorizadas.
+</details>
 
-## 11. Tema 10: fuentes y clasificación del financiamiento
+**⚠️ Frecuente en examen:** enumerar instituciones sin distinguir funciones; confundir garantía con supervisión; interpretar la clasificación de clase como registro actualizado de entidades autorizadas.
+
+---
+
+<a id="seccion-11"></a>
+
+# 11. Tema 10: fuentes y clasificación del financiamiento
 
 **Definición técnica:** el financiamiento aporta recursos para operar o invertir; puede clasificarse por origen, plazo, garantía y destino.
 
-**Feynman:** para abrir una tienda puedes usar lo que guardaste, invitar a un socio o pedir prestado. Cada opción tiene condiciones diferentes.
+**🧒 Feynman:** para abrir una tienda puedes usar lo que guardaste, invitar a un socio o pedir prestado. Cada opción tiene condiciones diferentes.
 
 | Criterio | Categorías del material | Pregunta práctica |
 |---|---|---|
@@ -418,11 +501,11 @@ La clase 23 presenta una división didáctica entre sistema formal regulado y ac
 
 Interna: utilidades retenidas. Externa: aportaciones nuevas y deuda. Proveedores y gastos acumulados son fuentes espontáneas de financiación operativa. Bonos, préstamos y arrendamientos tienen características diferentes de las acciones.
 
-**Concepto difícil: DEPRECIACIÓN NO GENERA EFECTIVO POR SÍ MISMA.** Se suma al conciliar utilidad con efectivo porque fue un gasto sin desembolso del período. No es un ingreso de caja ni una nueva aportación de un tercero.
+**⚠️ Concepto difícil: DEPRECIACIÓN NO GENERA EFECTIVO POR SÍ MISMA.** Se suma al conciliar utilidad con efectivo porque fue un gasto sin desembolso del período. No es un ingreso de caja ni una nueva aportación de un tercero.
 
-**Feynman:** borrar de tu cuaderno una parte del valor de una máquina no mete monedas en la alcancía.
+**🧒 Feynman:** borrar de tu cuaderno una parte del valor de una máquina no mete monedas en la alcancía.
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. Se reinvierten Q30,000 de utilidades. Clasifica origen y efecto inmediato sobre caja si no hay otra operación.
 2. Se compra inventario a crédito a 30 días. ¿Qué fuente aparece?
@@ -430,7 +513,7 @@ Interna: utilidades retenidas. Externa: aportaciones nuevas y deuda. Proveedores
 4. Se emiten acciones para financiar una máquina. ¿Fuente externa de deuda o capital?
 5. Una empresa reconoce depreciación Q8,000. Un alumno suma Q8,000 a bancos. ¿Es correcto?
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. Fuente interna; retener no crea por sí mismo un cobro nuevo ni aumenta caja en ese instante.
 2. Crédito de proveedores, financiamiento externo operativo de corto plazo en el supuesto.
@@ -438,21 +521,27 @@ Interna: utilidades retenidas. Externa: aportaciones nuevas y deuda. Proveedores
 4. Externa de capital, con derechos de participación.
 5. No. La depreciación reduce el resultado y el importe contable del activo; su reversión en una conciliación de flujos no es un depósito.
 
-**Frecuente en examen:** mezclar criterios: “externo”, “largo plazo” e “hipotecario” pueden describir simultáneamente un mismo préstamo.
+</details>
 
-## 12. Tema 11: bonos, intereses y sentido de valuación
+**⚠️ Frecuente en examen:** mezclar criterios: “externo”, “largo plazo” e “hipotecario” pueden describir simultáneamente un mismo préstamo.
+
+---
+
+<a id="seccion-12"></a>
+
+# 12. Tema 11: bonos, intereses y sentido de valuación
 
 **Definición técnica:** un bono es un instrumento de deuda que establece obligaciones del emisor relativas a principal, intereses u otros pagos según sus términos. Para el comprador es un activo financiero; para el emisor, una obligación.
 
-**Feynman:** compras un papel que dice cuánto te deben devolver y cuándo te pagarán por prestar tu dinero.
+**🧒 Feynman:** compras un papel que dice cuánto te deben devolver y cuándo te pagarán por prestar tu dinero.
 
 Comprar un bono intercambiando efectivo por una inversión no aumenta automáticamente el patrimonio neto del comprador: cambia la composición de sus activos. La afirmación de clase sobre “aumentar patrimonio” debe distinguirse de adquirir un activo.
 
 Clasificaciones de la clase 23: con o sin intereses explícitos; hipotecarios, con garantía colateral o sin garantía; al portador o a la orden; públicos o privados. “Sin intereses” puede significar sin cupón explícito: no demuestra rendimiento nulo. Derechos de transferencia, rescate y negociación dependen de condiciones; no todos los bonos son al portador.
 
-**Concepto difícil: TASA Y TIEMPO DEBEN SER COMPATIBLES.** Fórmula docente de interés simple: **I = B × i × t**; B principal, i tasa decimal por unidad de tiempo, t número de esas unidades. Si i es anual y t son meses, usa meses/12.
+**⚠️ Concepto difícil: TASA Y TIEMPO DEBEN SER COMPATIBLES.** Fórmula docente de interés simple: **I = B × i × t**; B principal, i tasa decimal por unidad de tiempo, t número de esas unidades. Si i es anual y t son meses, usa meses/12.
 
-**Feynman:** si te cobran por un año, medio año cuesta la mitad bajo interés simple.
+**🧒 Feynman:** si te cobran por un año, medio año cuesta la mitad bajo interés simple.
 
 Ejemplo: B = Q80,000, i = 9 % anual y t = 8/12: I = Q4,800. Si todo se paga al vencimiento, principal más interés = Q84,800. Si existen cupones intermedios, no sumes al final intereses ya pagados.
 
@@ -460,7 +549,7 @@ Ejemplo: B = Q80,000, i = 9 % anual y t = 8/12: I = Q4,800. Si todo se paga al v
 
 La fórmula I = Bit no calcula por sí sola el precio de mercado. Como aclaración conceptual complementaria, el precio de un bono de cupones fijos se entiende como el valor actual de sus cupones y principal: **P₀ = Σ[C/(1+r)^k] + B/(1+r)^n**, con k de 1 a n y tasa r por período de cupón. Esta fórmula no se desarrolla en los PDFs; no se agrega como tema exigible independiente. Ayuda a entender por qué cupón y rendimiento de mercado son distintos. A mayor rendimiento requerido, menor precio, manteniendo pagos y demás condiciones.
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. B = Q50,000, i = 8 % anual, un año. Calcula I.
 2. B = Q80,000, i = 9 % anual, ocho meses. Calcula I y pago único final.
@@ -468,7 +557,7 @@ La fórmula I = Bit no calcula por sí sola el precio de mercado. Como aclaraci�
 4. I = Q3,000, B = Q40,000 y t = 0.5 años. Despeja tasa anual simple.
 5. Una empresa emite un bono de Q25,000 a la par, sin gastos. Da el asiento del emisor y del comprador.
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. 50,000 × 0.08 × 1 = **Q4,000**.
 2. **Q4,800**; pago final **Q84,800**, suponiendo ausencia de cupones previos.
@@ -476,17 +565,23 @@ La fórmula I = Bit no calcula por sí sola el precio de mercado. Como aclaraci�
 4. i = 3,000/(40,000 × 0.5) = 0.15 = **15 % anual**.
 5. Emisor: Debe bancos / Haber bonos por pagar Q25,000. Comprador: Debe inversión en bonos / Haber bancos Q25,000. Comprar no crea una ganancia inicial en este supuesto.
 
-**Frecuente en examen:** usar 8 en lugar de 8/12; escribir 9 en lugar de 0.09; confundir cupón con principal; calcular interés sobre precio negociado cuando el cupón usa nominal; invertir deudor y acreedor.
+</details>
 
-## 13. Tema 12: resultados, flujos de fondos e incrementales
+**⚠️ Frecuente en examen:** usar 8 en lugar de 8/12; escribir 9 en lugar de 0.09; confundir cupón con principal; calcular interés sobre precio negociado cuando el cupón usa nominal; invertir deudor y acreedor.
+
+---
+
+<a id="seccion-13"></a>
+
+# 13. Tema 12: resultados, flujos de fondos e incrementales
 
 **Definición técnica:** el flujo representa entradas y salidas de recursos monetarios. Un flujo incremental es la diferencia atribuible a una alternativa frente a su escenario de referencia.
 
-**Feynman:** no preguntas cuánto dinero hay en total, sino cuánto dinero extra aparece por hacer el proyecto.
+**🧒 Feynman:** no preguntas cuánto dinero hay en total, sino cuánto dinero extra aparece por hacer el proyecto.
 
-**Concepto difícil: UTILIDAD ≠ EFECTIVO.** Ventas a crédito, depreciación, inversiones y pagos de deuda pueden hacer que resultado y flujo difieran. Los ejercicios docentes usan una conciliación simplificada, sin variaciones de capital de trabajo ni inversión.
+**⚠️ Concepto difícil: UTILIDAD ≠ EFECTIVO.** Ventas a crédito, depreciación, inversiones y pagos de deuda pueden hacer que resultado y flujo difieran. Los ejercicios docentes usan una conciliación simplificada, sin variaciones de capital de trabajo ni inversión.
 
-**Feynman:** venderle algo a alguien que pagará después aumenta lo que ganaste en el cuaderno, pero aún no llena tu alcancía.
+**🧒 Feynman:** venderle algo a alguien que pagará después aumenta lo que ganaste en el cuaderno, pero aún no llena tu alcancía.
 
 ### Secuencia que debes reconstruir
 
@@ -498,9 +593,9 @@ La fórmula I = Bit no calcula por sí sola el precio de mercado. Como aclaraci�
 6. Flujo simplificado de clase = utilidad neta + depreciación.
 7. Incremental = flujo con proyecto − flujo sin proyecto.
 
-**Concepto difícil: ESCENARIO SIN PROYECTO ≠ AÑO ANTERIOR AUTOMÁTICAMENTE.** El material usa años distintos como sustituto didáctico. Para atribuir causalidad a un proyecto se comparan alternativas bajo condiciones comparables; cambios de precios o actividad también pueden alterar el flujo.
+**⚠️ Concepto difícil: ESCENARIO SIN PROYECTO ≠ AÑO ANTERIOR AUTOMÁTICAMENTE.** El material usa años distintos como sustituto didáctico. Para atribuir causalidad a un proyecto se comparan alternativas bajo condiciones comparables; cambios de precios o actividad también pueden alterar el flujo.
 
-**Feynman:** si vendiste más helados este año porque hizo más calor, no puedes atribuir toda la mejora al nuevo letrero.
+**🧒 Feynman:** si vendiste más helados este año porque hizo más calor, no puedes atribuir toda la mejora al nuevo letrero.
 
 ### Caso práctico: tasa supuesta del 25 %
 
@@ -527,7 +622,7 @@ Incremental = 7,045 − 4,853.75 = **Q2,191.25**.
 
 La clase llama “flujo operativo” a utilidad neta más depreciación e incluye intereses. En otros enfoques de evaluación, el flujo operativo antes del financiamiento se expresa como UAII(1−T)+depreciación; con estos datos y T = 25 %, da Q7,120 en 2019. No es el Q7,045 de la convención docente, que ya descuenta intereses después de su efecto fiscal. Indica siempre qué definición empleas.
 
-### Cinco ejercicios
+### ✍️ Cinco ejercicios
 
 1. Ventas Q20,000, costo Q8,000, gastos Q3,000, depreciación Q1,000, intereses Q0 y T = 25 %. Calcula UAII, neta y flujo de clase.
 2. Repite con intereses Q400, manteniendo lo demás.
@@ -535,7 +630,7 @@ La clase llama “flujo operativo” a utilidad neta más depreciación e incluy
 4. Calcula el flujo 2019 del caso con T = 30 % y compáralo con T = 25 %.
 5. Se factura Q1,000 a crédito sin cobro aún. Un estudiante lo trata automáticamente como Q1,000 de entrada de efectivo. Identifica el error y el dato faltante.
 
-### Clave razonada
+<details><summary><strong>Clave razonada</strong></summary>
 
 1. UAII = 20,000 − 8,000 − 3,000 − 1,000 = **Q8,000**; neta = 8,000 × 0.75 = **Q6,000**; flujo = **Q7,000**.
 2. UAI Q7,600; impuesto Q1,900; neta **Q5,700**; flujo **Q6,700**. Los intereses reducen el flujo de clase en Q300 después de impuestos.
@@ -543,9 +638,15 @@ La clase llama “flujo operativo” a utilidad neta más depreciación e incluy
 4. Flujo **Q6,682**, frente a Q7,045; diferencia **−Q363**, igual a 7,260 × (0.30 − 0.25).
 5. Reconocimiento de venta no equivale a cobro. Falta saber cuándo y cuánto se cobra y cómo cambian las cuentas por cobrar; también faltan costos si se pretende calcular resultado neto.
 
-**Frecuente en examen:** sumar depreciación antes de calcular impuesto sin haberla deducido; deducirla dos veces; confundir UAI con UAII; mezclar tasas; restar con/sin al revés; tratar una diferencia histórica como causalidad demostrada.
+</details>
 
-## 14. Taller de gráficas y diagramas a mano
+**⚠️ Frecuente en examen:** sumar depreciación antes de calcular impuesto sin haberla deducido; deducirla dos veces; confundir UAI con UAII; mezclar tasas; restar con/sin al revés; tratar una diferencia histórica como causalidad demostrada.
+
+---
+
+<a id="seccion-14"></a>
+
+# 14. Taller de gráficas y diagramas a mano
 
 Las gráficas de esta sección son ayudas didácticas construidas a partir de los casos. Los PDFs no contienen curvas de oferta y demanda ni requieren gráficas de microeconomía. Los diagramas de texto funcionan incluso en lectores que no admiten Mermaid o imágenes incrustadas.
 
@@ -648,7 +749,11 @@ Las siguientes imágenes permiten contrastar tablas y fórmulas de las diapositi
 
 ![Elementos de estados financieros y ejemplo de flujos al 30 por ciento](revision/Clase%2024.png)
 
-## 15. Glosario de conceptos y fórmulas
+---
+
+<a id="seccion-15"></a>
+
+# 15. Glosario de conceptos y fórmulas
 
 Las versiones Feynman de los conceptos centrales están junto a sus definiciones en los temas; esta tabla sirve para recuperación rápida.
 
@@ -717,7 +822,11 @@ Las versiones Feynman de los conceptos centrales están junto a sus definiciones
 | Flujo de clase = neta + depreciación | Simplificación; no es un estado completo de flujos |
 | Incremental = con − sin | Misma definición y supuestos compatibles |
 
-## 16. Errores de alto impacto y preguntas de examen
+---
+
+<a id="seccion-16"></a>
+
+# 16. Errores de alto impacto y preguntas de examen
 
 Estas son preguntas de repaso derivadas del material, no predicciones sobre un examen específico.
 
@@ -732,7 +841,11 @@ Estas son preguntas de repaso derivadas del material, no predicciones sobre un e
 9. ¿Por qué hay dos incrementales correctos en los PDFs? Por el supuesto de impuesto: 25 % y 30 %.
 10. ¿Basta que el balance cuadre para que todo esté correcto? No; una clasificación equivocada o un importe omitido con contrapartida también puede cuadrar.
 
-## 17. Simulacro integrado y autoevaluación
+---
+
+<a id="seccion-17"></a>
+
+# 17. Simulacro integrado y autoevaluación
 
 Hazlo en dos bloques de 20–25 minutos. Reserva otro bloque de 10–20 minutos para corregir. No mires las claves hasta terminar cada bloque.
 
@@ -752,7 +865,7 @@ Hazlo en dos bloques de 20–25 minutos. Reserva otro bloque de 10–20 minutos 
 9. Si el flujo sin proyecto es Q8,500, calcula incremental del ejercicio 8. (10)
 10. Explica dos razones por las que comparar este año con el anterior no demuestra que toda diferencia proceda del proyecto. (10)
 
-### Clave del simulacro
+<details><summary><strong>Clave del simulacro</strong></summary>
 
 1. Autorizado Q300,000; suscrito Q200,000; pagado Q160,000; por suscribir Q100,000; por pagar Q40,000.
 2. Debe bancos Q13,000 / Haber capital Q10,000 y prima Q3,000.
@@ -765,9 +878,15 @@ Hazlo en dos bloques de 20–25 minutos. Reserva otro bloque de 10–20 minutos 
 9. 9,500 − 8,500 = **Q1,000**.
 10. Pueden cambiar demanda, precios, costos o condiciones externas; además, el año anterior no reproduce necesariamente qué habría ocurrido este año sin proyecto. Aceptar dos causas bien explicadas.
 
+</details>
+
 Otorga 5 puntos por procedimiento y 5 por respuesta razonada en cada pregunta. Un resultado numérico sin base correcta no demuestra dominio. Meta de práctica: 80/100 y capacidad de explicar los errores. Si fallas en signos, vuelve a temas 4–5; en unidades o porcentajes, a temas 7–8 y 11; en utilidad y caja, a tema 12.
 
-## 18. Hoja personal de errores y repaso final
+---
+
+<a id="seccion-18"></a>
+
+# 18. Hoja personal de errores y repaso final
 
 | Fecha | Tema y ejercicio | Mi error concreto | Regla corregida | Rehacer +1 día | +3 días | +7 días |
 |---|---|---|---|---|---|---|
